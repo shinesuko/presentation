@@ -1,0 +1,2105 @@
+manufacturer,processor_family,code_name,feature_size,channel_length,vdd_low,vdd_high,Vdd,clock,hw_ncores,tdp_W,transistors_million,die_size_mm2,year,heat_densit_Wpercm2
+Intel,Xeon,Irwindale,,,1.2875,1.3875,1.3375,3600,1,110,169,135,,81.48148148
+Intel,Xeon,Irwindale,,,1.25,1.388,1.319,3600,1,110,169,135,,81.48148148
+Intel,Xeon,Irwindale,,,1.2875,1.3875,1.3375,3800,1,110,169,135,,81.48148148
+Intel,Xeon,Cranford,,,1.2875,1.4,1.34375,3660,1,110,125,112,,98.21428571
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2130,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2260,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2260,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2400,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2530,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2530,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2530,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2660,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2660,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2660,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2800,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2800,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2930,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,2930,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3060,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3060,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3060,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3200,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3200,1,73,125,112,,65.17857143
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3200,1,84,125,112,,75
+Intel,Celeron D,Prescott,,,1.25,1.4,1.325,3330,1,84,125,112,,75
+Intel,Celeron D,Cedar Mill,,,1.25,1.325,1.2875,3330,1,86,188,81,,106.1728395
+Intel,Celeron D,Cedar Mill,,,1.25,1.325,1.2875,3460,1,65,188,81,,80.24691358
+Intel,Celeron M,Banias,,,,1.356,1.356,1200,1,24.5,77,83,,29.51807229
+Intel,Celeron M,Banias,,,,1.356,1.356,1400,1,24.5,77,83,,29.51807229
+Intel,Celeron M,Banias,,,,1.356,1.356,1500,1,24.5,77,83,,29.51807229
+Intel,Celeron M,Dothan,,,,1.26,1.26,1300,1,21,144,87,,24.13793103
+Intel,Celeron M,Dothan,,,,,,1400,1,21,144,87,,24.13793103
+Intel,Celeron M,Dothan,,,1.004,1.292,1.148,1600,1,21,144,87,,24.13793103
+Intel,Celeron M,Dothan,,,1.004,1.292,1.148,1700,1,21,144,87,,24.13793103
+Intel,Celeron M,Yonah,,,1,1.3,1.15,1460,1,27,151,90,,30
+Intel,Celeron M,Yonah,,,1,1.3,1.15,1600,1,27,151,90,,30
+Intel,Celeron M,Yonah,,,1,1.3,1.15,1730,1,27,151,90,,30
+Intel,Celeron M,Yonah,,,1,1.3,1.15,2000,1,27,151,90,,30
+Intel,Celeron M,Banias,,,,1.004,1.004,900,1,7,77,83,,8.43373494
+Intel,Celeron M,Dothan,,,,0.94,0.94,900,1,5,144,87,,5.747126437
+Intel,Celeron M,Dothan,,,0.876,0.956,0.916,1000,1,5.5,144,87,,6.32183908
+Intel,Celeron M,Banias,,,,1.004,1.004,800,1,7,77,83,,8.43373494
+Intel,Celeron,Coppermine T,,,,1.75,1.75,1000,1,29,28,90,,32.22222222
+Intel,Celeron,Tualatin,,,,1.475,1.475,1000,1,27.8,44,80,,34.75
+Intel,Celeron,Coppermine T,,,,1.75,1.75,1100,1,33,28,90,,36.66666667
+Intel,Celeron,Tualatin,,,,1.475,1.475,1100,1,28.9,44,80,,36.125
+Intel,Celeron,Tualatin,,,,1.5,1.5,1300,1,33.4,44,80,,41.75
+Intel,Celeron,Tualatin,,,,1.5,1.5,1400,1,34.8,44,80,,43.5
+Intel,Celeron,Northwood,,,,1.75,1.75,1700,1,63.5,55,131,,48.47328244
+Intel,Celeron,Northwood,,,1.56,1.725,1.6425,1800,1,66.1,55,131,,50.45801527
+Intel,Celeron Mobile,Northwood,,,,1.3,1.3,1700,1,30,55,131,,22.90076336
+Intel,Celeron Mobile,Northwood,,,1.56,1.3,1.43,1800,1,66.1,55,131,,50.45801527
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2100,1,55.5,55,131,,42.36641221
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2200,1,57.1,55,131,,43.58778626
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2300,1,58.3,55,131,,44.50381679
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2600,1,62.6,55,131,,47.78625954
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2700,1,66.8,55,131,,50.99236641
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2800,1,68.4,55,131,,52.21374046
+Intel,Celeron,Mendocino,,,,2,2,500,1,27,19,154,,17.53246753
+Intel,Celeron,Mendocino,,,,2,2,533,1,28.3,19,154,,18.37662338
+Intel,Celeron,Coppermine T,,,,,,600,1,15.8,28,90,,17.55555556
+Intel,Celeron,Coppermine T,,,,,,633,1,16.5,28,90,,18.33333333
+Intel,Celeron,Coppermine T,,,,,,667,1,17.5,28,90,,19.44444444
+Intel,Celeron,Coppermine T,,,,,,700,1,18.3,28,90,,20.33333333
+Intel,Celeron,Coppermine T,,,,,,766,1,20,28,90,,22.22222222
+Intel,Celeron,Coppermine T,,,,,,800,1,20.8,28,90,,23.11111111
+Intel,Celeron,Coppermine T,,,,1.75,1.75,900,1,26.7,28,90,,29.66666667
+Intel,Celeron,Tualatin,,,,1.475,1.475,900,1,34.8,44,80,,43.5
+Intel,Celeron,Coppermine T,,,,1.75,1.75,950,1,28,28,90,,31.11111111
+Intel,Xeon,Dempsey,,,1.075,1.35,1.2125,2660,2,95,376,162,,58.64197531
+Intel,Xeon,Dempsey,,,1.075,1.35,1.2125,2830,2,95,376,162,,58.64197531
+Intel,Xeon,Dempsey,,,1.075,1.35,1.2125,3200,2,130,376,162,,80.24691358
+Intel,Xeon,Dempsey,,,1.075,1.35,1.2125,3460,2,130,376,162,,80.24691358
+Intel,Xeon,Paxville,,,1.2625,1.4125,1.3375,2800,2,165,230,206,,80.09708738
+Intel,Xeon,Paxville,,,1.2625,1.4125,1.3375,3000,2,165,230,206,,80.09708738
+Intel,Core Duo,Yonah,,,0.7625,1.2125,0.9875,1500,2,15,151,90,,16.66666667
+Intel,Core Duo,Yonah,,,0.7625,1.2125,0.9875,1830,2,15,151,90,,16.66666667
+Intel,Core Duo,Yonah,,,0.7625,1.3,1.03125,1600,2,31,151,90,,34.44444444
+Intel,Core Duo,Yonah,,,0.7625,1.3,1.03125,1730,2,31,151,90,,34.44444444
+Intel,Core Duo,Yonah,,,0.7625,1.3,1.03125,1660,2,31,151,90,,34.44444444
+Intel,Core Duo,Yonah,,,0.8,1.1,0.95,1060,2,9,151,90,,10
+Intel,Core Solo,Yonah,,,1.1625,1.3,1.23125,1660,1,27,151,90,,30
+Intel,Core Solo,Yonah,,,0.95,1.262,1.106,1860,1,31,151,90,,34.44444444
+Intel,Core Solo,Yonah,,,1.1625,1.3,1.23125,1830,1,27,151,90,,30
+Intel,Core Solo,Yonah,,,0.85,1.1,0.975,1060,1,6,151,90,,6.666666667
+Intel,Core Solo,Yonah,,,0.85,1.1,0.975,1200,1,6,151,90,,6.666666667
+Intel,Core 2 Duo,Merom,,,1.075,1.175,1.125,1600,2,34,291,143,,23.77622378
+Intel,Core 2 Duo,Merom,,,1.0375,1.3,1.16875,1830,2,34,291,143,,23.77622378
+Intel,Xeon,Foster,,,,1.75,1.75,1700,1,65.8,,,,
+Intel,Xeon,Tulsa,,,1.1,1.35,1.225,2500,2,95,1328,435,,21.83908046
+Intel,Xeon,Tulsa,,,1.1,1.35,1.225,3000,2,95,1328,435,,21.83908046
+Intel,Xeon,Tulsa,,,1.1,1.35,1.225,3160,2,150,1328,435,,34.48275862
+Intel,Xeon,Tulsa,,,1.1,1.35,1.225,3330,2,150,1328,435,,34.48275862
+Intel,Xeon,Foster,,,,1.75,1.75,1400,1,64,,,,
+Intel,Xeon,Gallatin,,,,1.475,1.475,1500,1,48,,,,
+Intel,Xeon,Foster,,,,1.75,1.75,1500,1,68,,,,
+Intel,Xeon,Gallatin,,,,1.475,1.475,1900,1,55,,,,
+Intel,Xeon,Gallatin,,,,1.475,1.475,2200,1,65,82,555,,11.71171171
+Intel,Xeon,Gallatin,,,,1.475,1.475,2700,1,80,82,555,,14.41441441
+Intel,Celeron Mobile,Northwood,,,,1.3,1.3,1400,1,30,55,131,,22.90076336
+Intel,Celeron Mobile,Northwood,,,,1.3,1.3,1500,1,30,55,131,,22.90076336
+Intel,Celeron Mobile,Northwood,,,,1.3,1.3,1600,1,30,55,131,,22.90076336
+Intel,Celeron Mobile,Northwood,,,,1.3,1.3,2000,1,32,55,131,,24.42748092
+Intel,Celeron Mobile,Northwood,,,,1.2,1.2,2500,1,61,55,131,,46.5648855
+Intel,Celeron Mobile,Coppermine,,,,,,500,1,,,,,
+Intel,Celeron Mobile,Coppermine,,,,,,550,1,,,,,
+Intel,Celeron Mobile,Coppermine T,,,,1.6,1.6,650,1,14,28,90,,15.55555556
+Intel,Celeron Mobile,Coppermine T,,,,1.6,1.6,700,1,15,28,90,,16.66666667
+Intel,Celeron Mobile,Coppermine T,,,,1.7,1.7,733,1,20.6,28,90,,22.88888889
+Intel,Celeron Mobile,Coppermine T,,,,1.6,1.6,750,1,15.8,28,90,,17.55555556
+Intel,Celeron Mobile,Coppermine T,,,,1.7,1.7,800,1,22,28,90,,24.44444444
+Intel,Celeron Mobile,Coppermine T,,,,1.35,1.35,400,1,6.5,28,90,,7.222222222
+Intel,Pentium 4-M,Northwood,,,,1.2,1.2,1400,1,20.8,55,131,,15.8778626
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,1500,1,25.8,55,131,,19.69465649
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,1600,1,26.9,55,131,,20.53435115
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,1800,1,30,55,131,,22.90076336
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,1900,1,32,55,131,,24.42748092
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,2000,1,32,55,131,,24.42748092
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,2300,1,35,55,131,,26.71755725
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,2500,1,35,55,131,,26.71755725
+Intel,Pentium 4-M,Northwood,,,,1.3,1.3,2600,1,35,55,131,,26.71755725
+Intel,Pentium 4-M,Prescott,,,1.25,1.4,1.325,2800,1,88,125,112,,78.57142857
+Intel,Pentium 4-M,Prescott,,,1.25,1.4,1.325,3060,1,88,125,112,,78.57142857
+Intel,Pentium 4-M,Prescott,,,1.25,1.4,1.325,3200,1,88,125,112,,78.57142857
+Intel,Pentium 4-M,Prescott,,,1.25,1.4,1.325,3330,1,88,125,112,,78.57142857
+Intel,Pentium 4-M,Prescott,,,1.25,1.4,1.325,3460,1,88,125,112,,78.57142857
+Intel,Pentium 4-M,Northwood,,,1.2,1.55,1.375,2400,1,59.8,55,131,,45.64885496
+Intel,Pentium 4-M,Northwood,,,1.2,1.55,1.375,2660,1,66.1,55,131,,50.45801527
+Intel,Pentium 4-M,Northwood,,,1.2,1.55,1.375,2800,1,68.4,55,131,,52.21374046
+Intel,Pentium 4-M,Northwood,,,1.2,1.55,1.375,3060,1,70,55,131,,53.4351145
+Intel,Pentium 4-M,Northwood,,,1.2,1.55,1.375,3200,1,76,55,131,,58.01526718
+Intel,Pentium 4,Willamette,,,1.605,1.75,1.6775,1300,1,51.6,42,217,,23.77880184
+Intel,Pentium 4,Willamette,,,1.6,1.75,1.675,1400,1,54.7,42,217,,25.20737327
+Intel,Pentium 4,Willamette,,,1.59,1.75,1.67,1600,1,61,42,217,,28.11059908
+Intel,Pentium 4,Willamette,,,1.58,1.75,1.665,1700,1,64,42,217,,29.49308756
+Intel,Pentium 4,Northwood,,,,,,1700,1,,55,131,,0
+Intel,Pentium 4,Willamette,,,1.575,1.75,1.6625,1800,1,66.7,42,217,,30.73732719
+Intel,Pentium 4,Willamette,,,1.57,1.75,1.66,1900,1,69.2,42,217,,31.88940092
+Intel,Pentium 4,Northwood,,,1.35,1.43,1.39,2500,1,61,55,131,,46.5648855
+Intel,Pentium 4,Northwood,,,1.345,1.42,1.3825,2660,1,66.1,55,131,,50.45801527
+Intel,Pentium 4,Prescott,,,1.2,1.425,1.3125,3200,1,84,125,112,,75
+Intel,Pentium 4,Prescott,,,1.2,1.425,1.3125,3200,1,84,125,112,,75
+Intel,Pentium 4,Prescott,,,1.2,1.425,1.3125,3400,1,115,125,112,,102.6785714
+Intel,Pentium 4,Prescott,,,1.2,1.425,1.3125,3600,1,115,125,112,,102.6785714
+Intel,Pentium 4,Prescott,,,1.2,1.425,1.3125,3800,1,115,125,112,,102.6785714
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,2800,1,84,169,135,,62.22222222
+Intel,Pentium 4,Cedar Mill,,,1.2,1.3375,1.26875,3200,1,86,188,81,,106.1728395
+Intel,Pentium 4,Cedar Mill,,,1.2,1.3375,1.26875,3600,1,86,188,81,,106.1728395
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3600,1,115,169,135,,85.18518519
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3800,1,115,169,135,,85.18518519
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3730,1,115,169,135,,85.18518519
+Intel,Pentium 4,Northwood,,,1.34,1.425,1.3825,3060,1,81.8,55,131,,62.44274809
+Intel,Pentium 4,Prescott-2M,,,,,,4000,1,,,,,
+Intel,Pentium III,Katmai,,,,2,2,533,1,29.7,,,,
+Intel,Pentium III Xeon,Tanner,,,,2,2,500,1,36.2,,,,
+Intel,Pentium III Xeon,Tanner,,,,2,2,550,1,39.5,,,,
+Intel,Pentium III Xeon,Cascades,,,5,12,8.5,700,1,29.6,,,,
+Intel,Pentium III Xeon,Cascades,,,,,,900,1,,,,,
+Intel,Pentium III Xeon,Cascades,,,5,12,8.5,933,1,29.6,,,,
+Intel,Pentium M,Banias,,,0.956,1.388,1.172,1400,1,22,77,83,,26.5060241
+Intel,Pentium M,Banias,,,0.956,1.484,1.22,1500,1,24.5,77,83,,29.51807229
+Intel,Pentium M,Banias,,,0.956,1.484,1.22,1700,1,24.5,77,83,,29.51807229
+Intel,Pentium M,Banias,,,0.956,1.484,1.22,1500,1,24.5,77,83,,29.51807229
+Intel,Pentium M,Dothan,,,0.988,1.34,1.164,1500,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,0.988,1.34,1.164,1600,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,1.26,1.356,1.308,1600,1,27,144,87,,31.03448276
+Intel,Pentium M,Dothan,,,0.988,1.34,1.164,1700,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,1.26,1.356,1.308,1730,1,27,144,87,,31.03448276
+Intel,Pentium M,Dothan,,,1.276,1.34,1.308,1800,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,1.26,1.356,1.308,1860,1,27,144,87,,31.03448276
+Intel,Pentium M,Dothan,,,0.988,1.34,1.164,2000,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,0.988,1.356,1.172,2100,1,21,144,87,,24.13793103
+Intel,Pentium M,Dothan,,,1.26,1.372,1.316,2130,1,27,144,87,,31.03448276
+Intel,Pentium M,Dothan,0.09,0.053,1.26,1.404,1.332,2260,1,27,144,87,2003,31.03448276
+Intel,Pentium M,Banias,,,0.956,1.18,1.068,1200,1,12,77,83,,14.45783133
+Intel,Pentium M,Banias,,,0.956,1.18,1.068,1300,1,12,77,83,,14.45783133
+Intel,Pentium M,Dothan,,,0.988,1.116,1.052,1500,1,7.5,144,87,,8.620689655
+Intel,Pentium M,Dothan,,,0.988,1.116,1.052,1600,1,10,144,87,,11.49425287
+Intel,Pentium M,Banias,,,0.844,1.004,0.924,1000,1,7,77,83,,8.43373494
+Intel,Pentium M,Banias,,,0.844,1.004,0.924,1100,1,7,77,83,,8.43373494
+Intel,Pentium M,Dothan,,,0.812,0.94,0.876,1000,1,5,144,87,,5.747126437
+Intel,Pentium M,Dothan,,,0.812,0.956,0.884,1100,1,5,144,87,,5.747126437
+Intel,Pentium M,Dothan,,,0.812,0.956,0.884,1200,1,5.5,144,87,,6.32183908
+Intel,Pentium M,Dothan,,,0.812,0.956,0.884,1300,1,5.5,144,87,,6.32183908
+Intel,Pentium,Smithfield,,,1.2,1.4,1.3,3200,2,130,230,206,,63.10679612
+Intel,Pentium,Presler,,,1.2,1.3375,1.26875,3460,2,130,376,162,,80.24691358
+Intel,Pentium,Presler,,,1.2,1.3375,1.26875,3730,2,130,376,162,,80.24691358
+Intel,Celeron D,Cedar Mill,,,1.25,1.325,1.2875,3060,1,86,188,81,,106.1728395
+Intel,Celeron D,Cedar Mill,,,1.25,1.325,1.2875,3600,1,65,188,81,,80.24691358
+Intel,Itanium 2,Madison,,,,,,1000,1,100,410,374,,26.73796791
+Intel,Itanium 2,Madison,,,,,,1300,1,97,410,374,,25.93582888
+Intel,Itanium 2,Madison,,,,,,1400,1,91,410,374,,24.3315508
+Intel,Itanium 2,Madison,,,,,,1500,1,107,410,374,,28.60962567
+Intel,Itanium 2,Madison,,,,,,1600,1,122,592,432,,28.24074074
+Intel,Itanium 2,Madison,,,,,,1660,1,122,592,432,,28.24074074
+Intel,Itanium 2,Madison,,,,,,900,1,90,410,374,,24.06417112
+Intel,Itanium 2,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montecito,,,1.0875,1.25,1.16875,1400,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montecito,,,1.0875,1.25,1.16875,1420,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montecito,0.09,0.053,1.0875,1.25,1.16875,1600,2,104,1720,596,2003,17.44966443
+Intel,Xeon,Dempsey,,,1.075,1.35,1.2125,3200,2,95,376,162,,58.64197531
+Intel,Pentium,Yonah,,,0.7625,1.3,1.03125,1600,2,31,151,90,,34.44444444
+Intel,Core Solo,Yonah,,,0.85,1.1,0.975,1330,1,5.5,151,90,,6.111111111
+Intel,Core 2 Duo,Merom,,,0.9,1.1,1,1330,2,17,291,143,,11.88811189
+Intel,Core 2 Extreme,Kentsfield,,,0.85,1.5,1.175,2660,4,130,582,286,,45.45454545
+Intel,Xeon,Tulsa,,,1.1,1.35,1.225,3500,2,150,1328,435,,34.48275862
+Intel,Celeron,Conroe,,,1,1.3375,1.16875,1600,1,35,105,77,,45.45454545
+Intel,Celeron,Conroe,,,1,1.3375,1.16875,1800,1,35,105,77,,45.45454545
+Intel,Pentium,Yonah,,,0.7625,1.3,1.03125,1730,2,31,151,90,,34.44444444
+Intel,Xeon,Sossaman,,,1.1125,1.275,1.19375,2160,2,31,151,90,,34.44444444
+Intel,Core Duo,Yonah,,,0.95,1.262,1.106,1860,2,31,151,90,,34.44444444
+Intel,Core Duo,Yonah,,,0.95,1.262,1.106,2000,2,31,151,90,,34.44444444
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,2000,2,65,167,111,,58.55855856
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,1860,2,65,291,143,,45.45454545
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,2130,2,65,291,143,,45.45454545
+Intel,Core 2 Duo,Merom,,,0.975,1.062,1.0185,1400,2,17,291,143,,11.88811189
+Intel,Core 2 Duo,Merom,,,,,,1730,2,34,291,143,,23.77622378
+Intel,Core 2 Duo,Merom,,,,,,2000,2,35,291,143,,24.47552448
+Intel,Xeon,Clovertown,,,1.1,1.25,1.175,1600,4,50,582,286,,17.48251748
+Intel,Celeron,Sossaman,,,1.1125,1.25,1.18125,1830,1,27,151,90,,30
+Intel,Xeon,Woodcrest,,,1.15,1.25,1.2,2200,2,40,291,143,,27.97202797
+Intel,Core 2 Extreme,Kentsfield,,,0.85,1.5,1.175,2930,4,130,582,286,,45.45454545
+Intel,Pentium 4,Prescott,,,1.287,1.4,1.3435,3400,1,84,125,112,,75
+Intel,Pentium,Yonah,,,0.7625,1.3,1.03125,1860,2,31,151,90,,34.44444444
+Intel,Celeron,Merom,,,0.95,1.3,1.125,1860,1,30,291,143,,20.97902098
+Intel,Xeon,Woodcrest,,,1.15,1.25,1.2,1600,2,40,291,143,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2400,2,80,582,286,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2930,2,80,582,286,,27.97202797
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,2330,2,65,291,143,,45.45454545
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,2330,2,65,291,143,,45.45454545
+Intel,Core 2 Duo,Merom,,,1.075,1.25,1.1625,1500,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Merom,,,1.075,1.25,1.1625,1660,2,35,291,143,,24.47552448
+Intel,Core 2 Extreme,Kentsfield,,,0.85,1.5,1.175,3000,4,130,582,286,,45.45454545
+Intel,Xeon,Clovertown,,,1.1,1.25,1.175,2000,4,50,582,286,,17.48251748
+Intel,Xeon,Tigerton,,,1,1.5,1.25,1600,4,80,582,286,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2130,4,80,582,286,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2400,4,80,582,286,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2400,4,80,582,286,,27.97202797
+Intel,Xeon,Tigerton,,,1,1.5,1.25,2930,4,130,582,286,,45.45454545
+Intel,Core 2 Duo,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Itanium 2,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Pentium,Conroe,,,0.85,1.5,1.175,2000,2,65,105,77,,84.41558442
+Intel,Core 2 Duo,Merom,,,1.075,1.25,1.1625,1600,2,35,291,143,,24.47552448
+Intel,Core 2 Solo,Merom,,,0.8,1,0.9,1060,1,5.5,291,143,,3.846153846
+Intel,Core 2 Solo,Merom,,,0.8,1,0.9,1200,1,5.5,291,143,,3.846153846
+Intel,Itanium 2,Montvale,,,,,,1600,1,75,1720,596,,12.58389262
+Intel,Itanium 2,Montvale,,,,,,1420,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montvale,,,,,,1600,2,104,1720,596,,17.44966443
+Intel,Itanium 2,Montvale,,,,,,1600,2,104,1720,596,,17.44966443
+Intel,Xeon,Tigerton,,,1,1.5,1.25,1860,4,50,582,286,,17.48251748
+Intel,Core 2 Duo,Merom,,,0.9,1.2,1.05,1800,2,17,291,143,,11.88811189
+Intel,Core 2 Duo,Merom,,,1.075,1.25,1.1625,1830,2,35,291,143,,24.47552448
+Intel,Pentium,Conroe,,,0.85,1.5,1.175,2400,2,65,105,77,,84.41558442
+Intel,Pentium,Merom,,,1.075,1.175,1.125,1460,2,35,291,143,,24.47552448
+Intel,Pentium,Merom,,,1.075,1.175,1.125,1600,2,35,291,143,,24.47552448
+Intel,Xeon,Harpertown,,,0.85,1.35,1.1,2800,4,80,820,214,,37.38317757
+Intel,Xeon,Harpertown,,,0.85,1.35,1.1,2660,4,50,820,214,,23.36448598
+Intel,Core 2 Duo,Merom,,,1.075,1.25,1.1625,1400,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2400,2,35,410,107,,32.71028037
+Intel,Celeron,Merom,,,0.95,1.3,1.125,1730,1,27,291,143,,18.88111888
+Intel,Celeron,Conroe,,,1,1.3375,1.16875,1200,1,19,105,77,,24.67532468
+Intel,Core 2 Duo,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2100,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2500,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Merom,,,0.8,0.975,0.8875,1330,2,10,291,143,,6.993006993
+Intel,Core 2 Extreme,Yorkfield,,,0.85,1.3625,1.10625,3000,4,130,820,214,,60.74766355
+Intel,Celeron,Conroe,,,0.85,1.5,1.175,1600,2,65,105,77,,84.41558442
+Intel,Core 2 Duo,Conroe,,,0.85,1.5,1.175,2600,2,65,167,111,,58.55855856
+Intel,Core 2 Duo,Wolfdale,,,0.85,1.3625,1.10625,2660,2,65,410,107,,60.74766355
+Intel,Core 2 Extreme,Yorkfield,,,0.85,1.3625,1.10625,3200,4,136,820,214,,63.55140187
+Intel,Pentium,Merom,,,1.075,1.175,1.125,1730,2,35,291,143,,24.47552448
+Intel,Itanium 2,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Core 2 Extreme,Yorkfield,,,0.85,1.35,1.1,3200,4,150,820,214,,70.09345794
+Intel,Celeron,Conroe,,,0.85,1.5,1.175,2400,2,65,105,77,,84.41558442
+Intel,Core 2 Duo,Wolfdale,,,0.85,1.3625,1.10625,2830,2,65,410,107,,60.74766355
+Intel,Celeron,Conroe,,,0.85,1.5,1.175,2000,2,65,105,77,,84.41558442
+Intel,Pentium,Merom,,,1.075,1.175,1.125,1860,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Merom,,,1.0375,1.3,1.16875,1800,2,35,291,143,,24.47552448
+Intel,Celeron,Conroe,,,1,1.3375,1.16875,2200,1,35,105,77,,45.45454545
+Intel,Core 2 Extreme,Penryn,,,1.05,1.2625,1.15625,3060,2,44,410,107,,41.12149533
+Intel,Atom,Silverthorne,,,0.75,1.1,0.925,1860,1,2.4,47,26,,9.230769231
+Intel,Atom,Silverthorne,,,0.8,1.1,0.95,800,1,0.65,47,26,,2.5
+Intel,Core 2 Duo,Penryn,,,,,,2530,2,25,410,107,,23.36448598
+Intel,Core 2 Duo,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Pentium,Merom,,,1.075,1.175,1.125,2160,2,35,291,143,,24.47552448
+Intel,Celeron,Merom,,,,,,2260,1,31,291,143,,21.67832168
+Intel,Celeron,Merom,,,0.95,1.3,1.125,2160,1,31,291,143,,21.67832168
+Intel,Core 2 Duo,Penryn,,,,,,1600,2,17,410,107,,15.88785047
+Intel,Core 2 Duo,Penryn,,,,,,2400,2,25,410,107,,23.36448598
+Intel,Core 2 Extreme,Penryn,,,1.05,1.175,1.1125,2530,4,45,820,214,,21.02803738
+Intel,Core 2 Solo,Penryn,,,1.05,1.15,1.1,1200,1,5.5,410,107,,5.140186916
+Intel,Core 2 Duo,Penryn,,,1.05,1.15,1.1,2130,2,25,410,107,,23.36448598
+Intel,Core 2 Duo,Penryn,,,1.062,1.15,1.106,2000,2,25,410,107,,23.36448598
+Intel,Xeon,Wolfdale,,,,,,2400,1,30,228,82,,36.58536585
+Intel,Xeon,Harpertown,,,0.85,1.35,1.1,3400,4,150,820,214,,70.09345794
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2130,4,50,1900,503,,9.940357853
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2130,6,65,1900,503,,12.92246521
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2130,4,90,1900,503,,17.89264414
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2400,6,90,1900,503,,17.89264414
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2400,4,90,1900,503,,17.89264414
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2130,4,90,1900,503,,17.89264414
+Intel,Xeon,Dunnington,,,0.9,1.45,1.175,2660,6,130,1900,503,,25.84493042
+Intel,Core 2 Duo,Penryn,,,,,,2930,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2530,2,25,410,107,,23.36448598
+Intel,Core 2 Quad,Penryn,,,1.05,1.175,1.1125,2260,4,45,820,214,,21.02803738
+Intel,Core 2 Duo,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2000,2,25,410,107,,23.36448598
+Intel,Celeron,Merom,,,1.075,1.175,1.125,1830,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Penryn,,,1.05,1.212,1.131,2660,2,35,410,107,,32.71028037
+Intel,Celeron M,Penryn,,,,,,1300,1,10,410,107,,9.345794393
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,2660,4,130,731,263,,49.42965779
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,2930,4,130,731,263,,49.42965779
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,3200,4,130,731,263,,49.42965779
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,3060,4,130,731,263,,49.42965779
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,3200,4,130,731,263,,49.42965779
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,3330,4,130,731,263,,49.42965779
+Intel,Core 2 Quad,Yorkfield,,,0.85,1.3625,1.10625,2830,4,95,456,164,,57.92682927
+Intel,Pentium,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Core Solo,Yonah,,,,,,1730,1,31,151,90,,34.44444444
+Intel,Pentium,Penryn,,,,,,2000,2,35,410,107,,32.71028037
+Intel,Pentium,Penryn,,,1.05,1.15,1.1,2100,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2200,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,1.05,1.15,1.1,2530,2,25,410,107,,23.36448598
+Intel,Core 2 Duo,Penryn,,,1.05,1.15,1.1,2130,2,17,410,107,,15.88785047
+Intel,Core 2 Duo,Penryn,,,1.05,1.15,1.1,1600,2,10,410,107,,9.345794393
+Intel,Core 2 Duo,Penryn,,,1.05,1.212,1.131,2660,2,25,410,107,,23.36448598
+Intel,Celeron,Merom,,,1.075,1.175,1.125,1660,2,35,291,143,,24.47552448
+Intel,Core 2 Duo,Penryn,,,,,,2100,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2660,2,25,410,107,,23.36448598
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,2700,2,65,228,82,,79.26829268
+Intel,Core 2 Duo,Penryn,,,1,1.25,1.125,2000,2,35,410,107,,32.71028037
+Intel,Core 2 Quad,Penryn,,,1.05,1.175,1.1125,2000,4,45,410,107,,42.05607477
+Intel,Xeon,Nehalem EP,,,0.75,1.35,1.05,2130,4,60,,,,
+Intel,Pentium,Penryn,,,,,,2200,2,35,410,107,,32.71028037
+Intel,Atom,Silverthorne,,,,,,1200,1,1.4,47,26,,5.384615385
+Intel,Atom,Silverthorne,,,,,,2000,1,2.4,47,26,,9.230769231
+Intel,Core 2 Quad,Yorkfield,,,0.85,1.3625,1.10625,2660,4,65,456,164,,39.63414634
+Intel,Core 2 Quad,Yorkfield,,,0.85,1.3625,1.10625,2830,4,65,820,214,,30.37383178
+Intel,Core 2 Quad,Yorkfield,,,0.85,1.3625,1.10625,2330,4,65,456,164,,39.63414634
+Intel,Xeon,Bloomfield,,,0.8,1.375,1.0875,2800,4,130,731,263,,49.42965779
+Intel,Core i7,Lynnfield,,,0.65,1.4,1.025,2930,4,95,774,296,,32.09459459
+Intel,Core i7,Lynnfield,,,0.65,1.4,1.025,2530,4,82,774,296,,27.7027027
+Intel,Core i7,Bloomfield,,,0.8,1.375,1.0875,2800,4,130,731,263,,49.42965779
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,2800,2,65,228,82,,79.26829268
+Intel,Celeron,Penryn,,,,,,2200,1,35,410,107,,32.71028037
+Intel,Xeon,Nehalem EP,,,0.75,1.35,1.05,2400,4,60,731,263,,22.81368821
+Intel,Core 2 Duo,Penryn,,,,,,2260,2,25,410,107,,23.36448598
+Intel,Celeron,Mendocino,,,,,,466,1,,19,154,,0
+Intel,Celeron,Penryn,,,,,,2100,2,35,410,107,,32.71028037
+Intel,Core 2 Duo,Penryn,,,,,,2200,2,35,410,107,,32.71028037
+Intel,Core 2 Quad,Yorkfield,,,0.85,1.3625,1.10625,2660,4,65,456,164,,39.63414634
+Intel,Core 2 Solo,Penryn,,,1.05,1.15,1.1,1300,2,5.5,410,107,,5.140186916
+Intel,Pentium III Xeon,Cascades,,,,,,600,1,,,,,
+Intel,Core 2 Duo,Penryn,,,,,,2260,2,25,410,107,,23.36448598
+Intel,Core 2 Duo,Penryn,,,1.012,1.175,1.0935,2800,2,28,410,107,,26.1682243
+Intel,Celeron,Wolfdale,,,0.85,1.3625,1.10625,2700,2,65,,,,
+Intel,Itanium,Tukwila,,,,,,1460,4,155,,,,
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,2800,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,3000,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,3200,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,,,,2930,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,,,,3060,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,3200,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,0.85,1.3625,1.10625,3330,2,65,228,82,,79.26829268
+Intel,Core i5,Lynnfield,,,0.65,1.4,1.025,2400,4,82,774,296,,27.7027027
+Intel,Core 2 Quad,Yorkfield,,,,,,2830,4,95,456,164,,57.92682927
+Intel,Core 2 Quad,Yorkfield,,,,,,2830,4,65,456,164,,39.63414634
+Intel,Pentium,Penryn,,,,,,2300,2,35,410,107,,32.71028037
+Intel,Core i7,Clarksfield,,,,,,1600,4,45,774,296,,15.2027027
+Intel,Core i7,Clarksfield,,,,,,1730,4,45,774,296,,15.2027027
+Intel,Core i7,Clarksfield,,,,,,1860,4,45,774,296,,15.2027027
+Intel,Core i7 Extreme,Clarksfield,,,,,,2000,4,55,774,296,,18.58108108
+Intel,Core i7 Extreme,Clarksfield,,,,,,2130,4,55,774,296,,18.58108108
+Intel,Itanium,Tukwila,,,,,,1600,2,130,,,,
+Intel,Itanium,Tukwila,,,,,,1330,4,155,,,,
+Intel,Itanium,Tukwila,,,,,,1600,4,185,,,,
+Intel,Itanium,Tukwila,,,,,,1730,4,185,,,,
+Intel,Core i3,Arrandale,,,,,,2260,2,35,382,81,,43.20987654
+Intel,Core i5,Arrandale,,,,,,2260,2,35,382,81,,43.20987654
+Intel,Core i5,Arrandale,,,,,,2530,2,35,382,81,,43.20987654
+Intel,Core i5,Clarkdale,,,0.65,1.4,1.025,3200,2,73,382,81,,90.12345679
+Intel,Core i5,Clarkdale,,,0.65,1.4,1.025,3330,2,87,382,81,,107.4074074
+Intel,Core i5,Clarkdale,,,0.65,1.4,1.025,3460,2,73,382,81,,90.12345679
+Intel,Core i7,Arrandale,,,,,,2000,2,25,382,81,,30.86419753
+Intel,Core i7,Arrandale,,,,,,1060,2,18,382,81,,22.22222222
+Intel,Core i7,Arrandale,,,,,,2130,2,25,382,81,,30.86419753
+Intel,Pentium,Clarkdale,,,0.65,1.4,1.025,2800,2,73,382,81,,90.12345679
+Intel,Atom,Pineview,,,,,,1830,1,6.5,123,66,,9.848484848
+Intel,Core i3,Clarkdale,,,0.65,1.4,1.025,2930,2,73,382,81,,90.12345679
+Intel,Pentium,Clarkdale,,,0.65,1.4,1.025,2933,2,73,382,81,,90.12345679
+Intel,Xeon,Nehalem EX,,,,,,1730,4,105,,,,
+Intel,Xeon,Nehalem EX,,,,,,2000,6,105,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,1866,4,95,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,1866,6,105,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,2000,6,105,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,1866,6,95,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,1866,8,95,,,,
+Intel,Xeon,Nehalem EX,,,,,,2000,8,130,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,2666,6,130,,,,
+Intel,Xeon,Nehalem EX,,,0.675,1.35,1.0125,2000,8,130,,,,
+Intel,Xeon,Nehalem EX,,,,,,2266,8,130,,,,
+Intel,Celeron,Penryn,,,,,,2000,2,35,410,107,,32.71028037
+Intel,Core i5,Arrandale,,,,,,1066,2,18,382,81,,22.22222222
+Intel,Core i3,Arrandale,,,,,,2130,2,35,382,81,,43.20987654
+Intel,Pentium II Mobile,Mendocino,,,,1.6,1.6,266,1,10.3,,,,
+Intel,Core i7,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Core i7 Extreme,Gulftown,,,0.8,1.375,1.0875,3330,6,130,,239,,54.39330544
+Intel,Core i7,Gulftown,,,0.8,1.375,1.0875,3200,6,130,,239,,54.39330544
+Intel,Core i5,Lynnfield,,,0.65,1.4,1.025,2800,4,95,774,296,,32.09459459
+Intel,Core i7,Lynnfield,,,0.65,1.4,1.025,2660,4,82,774,296,,27.7027027
+Intel,Core i7,Lynnfield,,,0.65,1.4,1.025,2930,4,95,774,296,,32.09459459
+Intel,Core i7,Lynnfield,,,0.65,1.4,1.025,3060,4,95,774,296,,32.09459459
+Intel,Core i5,Clarkdale,,,0.65,1.4,1.025,3600,2,73,382,81,,90.12345679
+Intel,Core i3,Clarkdale,,,0.65,1.4,1.025,3200,2,73,382,81,,90.12345679
+Intel,Core i5,Clarkdale,,,0.65,1.4,1.025,3200,2,73,382,81,,90.12345679
+Intel,Core i3,Arrandale,,,,,,2400,2,35,382,81,,43.20987654
+Intel,Core i3,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Core i5,Arrandale,,,,,,2400,2,35,382,81,,43.20987654
+Intel,Core i5,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Core i7,Clarksfield,,,,,,1730,4,45,774,296,,15.2027027
+Intel,Pentium,Arrandale,,,,,,1860,2,35,382,81,,43.20987654
+Intel,Pentium,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Celeron,Arrandale,,,,,,1060,2,18,382,81,,22.22222222
+Intel,Core i7,Arrandale,,,,,,1330,2,18,382,81,,22.22222222
+Intel,Core i5,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Atom,Pineview,,,,,,1830,1,6.5,123,66,,9.848484848
+Intel,Core i5,Arrandale,,,,,,2660,2,35,382,81,,43.20987654
+Intel,Core i5,Arrandale,,,,,,2660,2,35,382,81,,43.20987654
+Intel,Core i7,Arrandale,,,,,,2260,2,25,382,81,,30.86419753
+Intel,Atom,Lincroft,,,,,,1200,1,1.3,,,,
+Intel,Atom,Lincroft,,,,,,1600,1,2.2,,,,
+Intel,Atom,Lincroft,,,,,,1900,1,2.2,,,,
+Intel,Core i7,Arrandale,,,,,,1460,2,18,382,81,,22.22222222
+Intel,Core i5,Arrandale,,,,,,1330,2,18,382,81,,22.22222222
+Intel,Core i7,Arrandale,,,,,,2800,2,35,382,81,,43.20987654
+Intel,Atom,Silverthorne,,,0.75,1.1,0.925,2130,1,2.5,47,26,,9.615384615
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2400,1,84,125,112,,75
+Intel,Xeon,,,,,2,2,400,1,30.8,,,,
+Intel,Xeon,,,,,2,2,450,1,34.5,,,,
+Intel,Pentium,,,,,,,266,1,,,,,
+Intel,Pentium,,,,,,,300,1,,,,,
+Intel,Celeron Mobile,Dixon,,,,1.6,1.6,266,1,9.8,,,,
+Intel,Celeron Mobile,Dixon,,,,1.6,1.6,300,1,11.8,,,,
+Intel,Celeron Mobile,Dixon,,,,1.6,1.6,400,1,13.8,,,,
+Intel,Celeron Mobile,Dixon,,,,1.9,1.9,433,1,19.4,,,,
+Intel,Celeron Mobile,Dixon,,,,1.9,1.9,466,1,20.7,,,,
+Intel,Pentium II Mobile,N/A,,,,1.6,1.6,233,1,9,,,,
+Intel,Pentium II Mobile,N/A,,,,1.6,1.6,266,1,10.3,,,,
+Intel,Pentium II Mobile,N/A,,,,1.6,1.6,300,1,11.1,,,,
+Intel,Pentium II Mobile,Dixon,,,,1.6,1.6,366,1,13.1,,,,
+Intel,Pentium II Mobile,Dixon,,,,1.55,1.55,400,1,13.1,27.4,180,,7.277777778
+Intel,Core i5,Arrandale,,,,,,1330,2,18,382,81,,22.22222222
+Intel,Core i3,Arrandale,,,,,,1330,2,18,382,81,,22.22222222
+Intel,Pentium,Arrandale,,,,,,1330,2,18,382,81,,22.22222222
+Intel,Celeron,Arrandale,,,,,,1200,2,18,382,81,,22.22222222
+Intel,Atom,Pineview,,,,,,1500,2,8.5,176,87,,9.770114943
+Intel,Pentium,Arrandale,,,,,,2000,2,35,382,81,,43.20987654
+Intel,Pentium,Arrandale,,,,,,2130,2,35,382,81,,43.20987654
+Intel,Core i3,Clarkdale,,,0.65,1.4,1.025,3330,2,73,382,81,,90.12345679
+Intel,Core i3,Arrandale,,,,,,2530,2,35,382,81,,43.20987654
+Intel,Core i5,Arrandale,,,,,,2530,2,35,382,81,,43.20987654
+Intel,Pentium,Arrandale,,,,,,2270,2,35,382,81,,43.20987654
+Intel,Core i5,Sandy Bridge,,,,,,2500,4,65,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3300,4,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2700,4,65,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2300,4,45,,,,
+Intel,Core i7,Sandy Bridge,,,,,,3400,4,95,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2800,4,65,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2000,4,45,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2100,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2300,4,45,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2500,2,35,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2700,2,35,,,,
+Intel,Core i7 Extreme,Sandy Bridge,,,,,,2500,4,55,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3100,4,80,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3200,4,80,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3200,4,95,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3300,4,80,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3300,4,95,,,,
+Intel,Xeon,Sandy Bridge,,,,,,2400,4,45,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3400,4,80,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3500,4,95,,,,
+Intel,Celeron,Arrandale,,,,,,2000,2,35,382,81,,43.20987654
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,3460,6,130,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,3060,6,95,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,3600,4,130,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,3200,4,95,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,2930,4,130,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,2530,6,80,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,2260,4,80,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,2130,4,80,,,,
+Intel,Xeon,Westmere EP,,,0.75,1.35,1.05,1600,4,80,,,,
+Intel,Core i7 Extreme,Gulftown,,,0.8,1.375,1.0875,3460,6,130,,239,,54.39330544
+Intel,Xeon,Gulftown,,,0.8,1.375,1.0875,3460,6,130,,239,,54.39330544
+Intel,Core i5,Arrandale,,,,,,2660,2,35,382,81,,43.20987654
+Intel,Core i3,Arrandale,,,,,,2660,2,35,382,81,,43.20987654
+Intel,Xeon,Sandy Bridge,,,,,,2200,2,20,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2400,2,65,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2000,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2100,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2600,2,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3100,2,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2500,2,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3100,2,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3300,2,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2600,2,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3400,2,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2100,2,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2200,2,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2900,4,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3000,4,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2700,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2500,2,35,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2000,4,45,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2800,2,35,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2200,4,45,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2200,4,45,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2400,4,45,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2500,4,45,,,,
+Intel,Core i7 Extreme,Sandy Bridge,,,,,,2700,4,55,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2600,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2200,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2600,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2700,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2700,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2800,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2400,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2800,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,3000,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,3100,2,65,,,,
+Intel,Xeon,Westmere EX,,,,,,1730,6,105,,,,
+Intel,Xeon,Westmere EX,,,,,,1860,6,95,,,,
+Intel,Xeon,Westmere EX,,,,,,2260,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2260,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2260,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2000,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2000,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2000,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2660,8,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2130,10,105,,,,
+Intel,Xeon,Westmere EX,,,,,,2400,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2400,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2400,10,130,,,,
+Intel,Xeon,Westmere EX,,,,,,2000,8,105,,,,
+Intel,Xeon,Westmere EX,,,,,,2130,8,105,,,,
+Intel,Xeon,Westmere EX,,,,,,2000,8,105,,,,
+Intel,Xeon,Westmere EX,,,,,,2130,8,105,,,,
+Intel,Xeon,Westmere EX,,,,,,2130,8,105,,,,
+Intel,Celeron,Penryn,,,,,,1400,1,10,410,107,,9.345794393
+Intel,Celeron,Penryn,,,,,,2300,1,35,410,107,,32.71028037
+Intel,Core i7,Sandy Bridge,,,,,,2100,2,25,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2300,2,25,,,,
+Intel,Core i7,Sandy Bridge,,,,,,1600,2,17,,,,
+Intel,Core i7,Sandy Bridge,,,,,,1500,2,17,,,,
+Intel,Core i7,Sandy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i7,Sandy Bridge,,,,,,1700,2,17,,,,
+Intel,Core i5,Sandy Bridge,,,,,,1400,2,17,,,,
+Intel,Core i5,Sandy Bridge,,,,,,1700,2,17,,,,
+Intel,Core i3,Sandy Bridge,,,,,,1300,2,17,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2500,4,65,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3100,2,65,,,,
+Intel,Xeon,Sandy Bridge,,,,,,3600,4,95,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2000,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2100,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1200,2,17,,,,
+Intel,Atom,Pineview,,,,,,1660,2,8.5,176,87,,9.770114943
+Intel,Celeron,Sandy Bridge,,,,,,1100,2,17,,,,
+Intel,Core i5,Sandy Bridge,,,,,,1600,2,17,,,,
+Intel,Core i7,Gulftown,,,0.8,1.3,1.05,3330,6,130,,239,,54.39330544
+Intel,Celeron,Sandy Bridge,,,,,,1600,1,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,3300,2,65,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1600,1,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1500,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1300,1,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1200,2,17,,,,
+Intel,Atom,Cedarview,,,0.91,1.21,1.06,1860,2,10,,,,
+Intel,Atom,Cedarview,,,0.91,1.21,1.06,2130,2,10,,,,
+Intel,Core i3,Sandy Bridge,,,,,,1400,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1900,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1300,2,17,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2200,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i7 Extreme,Sandy Bridge-E,,,0.6,1.35,0.975,3300,6,130,,,,
+Intel,Core i7,Sandy Bridge E,,,0.6,1.35,0.975,3200,6,130,,,,
+Intel,Core i7,Sandy Bridge E,,,,,,3600,4,130,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1800,1,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1400,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1400,1,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1300,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1600,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1700,1,35,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3100,8,150,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2700,8,130,,,,
+Intel,Xeon,Sandy Bridge-EP,,,0.6,1.35,0.975,2000,8,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2200,8,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,1800,8,70,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2000,6,60,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3300,4,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2400,4,80,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2900,6,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2000,8,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2500,6,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,1800,4,80,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2300,6,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2600,8,115,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2900,8,135,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2400,8,115,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3000,2,80,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3200,6,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2400,6,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2400,8,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,,,,2200,6,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2600,8,115,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2200,8,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2900,6,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2000,4,95,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,1800,8,70,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2100,8,95,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2400,6,95,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2000,6,60,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2200,4,80,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,1800,4,80,,,,
+Intel,Xeon,Sandy Bridge-EN,,,0.6,1.35,0.975,2200,6,95,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,1900,6,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3300,6,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3600,4,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2700,8,130,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2300,8,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3200,4,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3100,4,95,,,,
+Intel,Core i7 Extreme,Ivy Bridge,,,,,,2900,4,55,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2700,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2600,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2900,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2800,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2600,2,35,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2000,2,17,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2300,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2300,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2100,4,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3100,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2800,4,65,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2900,4,65,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3300,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3400,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2300,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,3500,4,77,,,,
+Intel,Core i7,Ivy Bridge,,,,,,3100,4,65,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2500,4,45,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3400,4,95,,,,
+Intel,Core i3,Ivy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i3,Ivy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3100,4,65,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3400,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2900,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1700,2,17,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2500,2,35,,,,
+Intel,Core i7,Ivy Bridge,,,,,,1900,2,17,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3700,4,87,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3600,4,69,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3500,4,69,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2500,4,45,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3400,4,77,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3400,4,69,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3300,4,69,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3100,4,69,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,2,17,,,,
+Intel,Pentium,Sandy Bridge-EN,,,0.6,1.35,0.975,1200,2,40,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,1800,6,60,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2600,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1500,1,17,,,,
+AMD,80386,,0.8,0.8,,,,40,1,,,,1991,
+AMD,80486,DX,0.5,0.5,5,5,5,40,1,3,0.93,89,1993,3.370786517
+AMD,Athlon,Pluto,0.18,0.1,,,,550,1,,,,1999,
+AMD,Athlon,Pluto,0.18,0.1,,,,600,1,,,,1999,
+AMD,Athlon,Pluto,0.18,0.1,,,,650,1,,,,1999,
+AMD,Athlon,Pluto,0.18,0.1,1.8,1.8,1.8,750,1,,22,102,1999,0
+AMD,Athlon,Pluto,0.18,0.1,,,,800,1,,,,1999,
+AMD,Athlon,Pluto,0.18,0.1,,,,850,1,,,,1999,
+AMD,Athlon,Pluto,0.18,0.1,,,,900,1,,,,1999,
+AMD,Athlon,Thunderbird,0.18,0.1,1.8,1.8,1.8,1000,1,49,37,120,1999,40.83333333
+AMD,Athlon,Thunderbird,0.18,0.1,,,,1100,1,,,,1999,
+AMD,Athlon,Thunderbird,0.18,0.1,,,,1200,1,,,,1999,
+AMD,Athlon,Thunderbird,0.18,0.1,,,,1300,1,,,,1999,
+AMD,Athlon,Thunderbird,0.18,0.1,,,,1333,1,,,,1999,
+AMD,Athlon,Thunderbird,0.18,0.1,1.8,1.8,1.8,1400,1,56,,120,1999,46.66666667
+AMD,Athlon 64,,0.09,0.053,,,,1200,1,,,,2005,
+AMD,Athlon 64,ClawHammer,0.13,0.07,1.5,1.5,1.5,2000,1,89,,,2003,
+AMD,Athlon 64,ClawHammer,0.13,0.07,,,,2000,1,,,,2003,
+AMD,Athlon 64,ClawHammer,0.13,0.07,,,,2600,1,,,,2003,
+AMD,FX,SledgeHammer,0.13,0.07,,,,2200,1,,,,2003,
+AMD,FX,SledgeHammer,0.13,0.07,,,,2400,1,,,,2003,
+AMD,FX,ClawHammer,0.13,0.07,1.5,1.5,1.5,2600,1,89,105.9,193,2003,46.11398964
+AMD,FX,San Diego,0.09,0.053,1.4,1.4,1.4,2800,1,104,114,115,2005,90.43478261
+AMD,FX,Toledo,0.09,0.053,1.3,1.35,1.325,2600,2,110,233,199,2005,55.27638191
+AMD,FX,Windsor,0.09,0.053,1.35,1.35,1.35,2800,2,125,243,220,2005,56.81818182
+AMD,Athlon 64 X2,Manchester,0.09,0.053,,,,2200,2,,,,2005,
+AMD,Athlon 64 X2,Brisbane,0.065,0.035,1.25,1.25,1.25,2600,2,65,154,126,2006,51.58730159
+AMD,Athlon 64 X2,Brisbane,0.065,0.035,1.3,1.35,1.325,3100,2,125,227,220,2006,56.81818182
+AMD,Athlon 64 X2,Brisbane,0.065,0.035,1.35,1.4,1.375,3200,2,125,227,230,2006,54.34782609
+AMD,Athlon 64 X2,Tyler,0.065,0.035,1.075,1.125,1.1,1600,2,20,,,2006,
+AMD,Athlon 64 X2,Lion,0.065,0.035,0.95,1.1,1.025,2100,2,35,,,2006,
+AMD,Athlon II,Propus,0.045,0.025,0.85,1.25,1.05,2900,4,95,,,2007,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1200,1,,,,1999,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1333,1,,,,1999,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1400,1,,,,1999,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1533,1,,,,1999,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1667,1,,,,1999,
+AMD,Athlon MP,Palomino,0.18,0.1,,,,1733,1,,,,1999,
+AMD,Athlon MP,Thoroughbred,0.13,0.07,,,,1800,1,,,,2003,
+AMD,Athlon MP,Thoroughbred,0.13,0.07,,,,2000,1,,,,2003,
+AMD,Athlon MP,Thoroughbred,0.13,0.07,,,,2133,1,,,,2003,
+AMD,Athlon X2,Kuma,0.065,0.035,1.05,1.325,1.1875,2500,2,95,450,285,2006,33.33333333
+AMD,Athlon X2,Kuma,0.065,0.035,,,,2700,2,95,463,285,2006,33.33333333
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1333,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1400,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1466,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1533,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1600,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1667,1,,,,1999,
+AMD,Athlon XP,Palomino,0.18,0.1,,,,1733,1,,,,1999,
+AMD,Athlon XP,Thoroughbred,0.13,0.07,1.5,1.5,1.5,1800,1,62,37.2,85,2003,72.94117647
+AMD,Athlon XP,Thoroughbred,0.13,0.07,,,,2000,1,,,,2003,
+AMD,Athlon XP,Thoroughbred,0.13,0.07,,,,2133,1,,,,2003,
+AMD,Athlon XP,Thoroughbred,0.13,0.07,,,,2166,1,,,,2003,
+AMD,Athlon XP,Thoroughbred,0.13,0.07,,,,2250,1,,,,2003,
+AMD,Athlon XP,Barton,0.13,0.07,1.5,1.5,1.5,2167,1,74.3,54.3,101,2003,73.56435644
+AMD,Athlon XP,Barton,0.13,0.07,,,,2200,1,,,,2003,
+AMD,K5,SSA/5,0.5,0.5,3.52,3.52,3.52,75,1,,4.3,251,1993,0
+AMD,K5,SSA/5,0.5,0.5,3.52,3.52,3.52,90,1,11,4.3,251,1993,4.38247012
+AMD,K6,Model 6,0.35,0.35,3.2,3.3,3.25,233,1,17,8.8,157,1997,10.82802548
+AMD,K6,Little Foot,0.25,0.25,2.2,2.2,2.2,300,1,9.5,8.8,68,1998,13.97058824
+AMD,K6-2,Chomper,0.25,0.25,2.4,2.4,2.4,333,1,11.4,9.3,81,1998,14.07407407
+AMD,K6-2,Chomper Extended,0.25,0.25,2.4,2.4,2.4,400,1,13.6,,81,1998,16.79012346
+AMD,K6-2,Chomper Extended,0.25,0.25,,,,500,1,,,,1998,
+AMD,K6-III,Sharptooth,0.25,0.25,2.4,2.4,2.4,450,1,17.1,21.3,135,1999,12.66666667
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,1400,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,1600,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,1.55,1.55,1.55,1800,1,89,105.9,193,2003,46.11398964
+AMD,Opteron,SledgeHammer,0.13,0.07,1.4,1.5,1.45,2000,1,89,106,193,2003,46.11398964
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2200,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2400,1,,,,2003,
+AMD,Opteron,Venus,0.09,0.053,,,,2600,1,,,,2005,
+AMD,Opteron,Venus,0.09,0.053,,,,2800,1,,,,2005,
+AMD,Opteron,Venus,0.09,0.053,,,,3000,1,,,,2005,
+AMD,Opteron,Denmark,0.09,0.053,,,,2600,1,,,,2005,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2000,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2200,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2400,1,,,,2003,
+AMD,Opteron,Troy,0.09,0.053,,,,2600,1,,,,2005,
+AMD,Opteron,Troy,0.09,0.053,1.35,1.4,1.375,2800,1,92.6,106,115,2005,80.52173913
+AMD,Opteron,Troy,0.09,0.053,1.35,1.4,1.375,3000,1,92.6,106,115,2005,80.52173913
+AMD,Opteron,Italy,0.09,0.053,,,,1800,2,,,,2005,
+AMD,Opteron,Italy,0.09,0.053,,,,2200,2,,,,2005,
+AMD,Opteron,Italy,0.09,0.053,,,,2400,2,,,,2005,
+AMD,Opteron,Italy,0.09,0.053,,,,2600,2,,,,2005,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2400,2,,,,2003,
+AMD,Opteron,Athens,0.09,0.053,,,,2600,2,,,,2005,
+AMD,Opteron,Athens,0.09,0.053,,,,2800,2,,,,2005,
+AMD,Opteron,Athens,0.09,0.053,,,,3000,2,,,,2005,
+AMD,Opteron,Egypt,0.09,0.053,,,,2400,2,,,,2005,
+AMD,Opteron,Egypt,0.09,0.053,,,,2600,2,,,,2005,
+AMD,Opteron,Egypt,0.09,0.053,1.3,1.35,1.325,2800,2,95,233,199,2005,47.73869347
+AMD,Opteron,Santa Ana,0.09,0.053,,,,1800,2,,,,2005,
+AMD,Opteron,Santa Ana,0.09,0.053,,,,2000,2,,,,2005,
+AMD,Opteron,Santa Ana,0.09,0.053,,,,2200,2,,,,2005,
+AMD,Opteron,Santa Ana,0.09,0.053,,,,2400,2,,,,2005,
+AMD,Opteron,Santa Ana,0.09,0.053,1.3,1.35,1.325,2600,2,103,227.4,230,2005,44.7826087
+AMD,Opteron,Santa Ana,0.09,0.053,,,,2800,2,,,,2005,
+AMD,Opteron,Budapest,0.065,0.035,,1.2,1.2,2100,4,95,463,,2006,
+AMD,Opteron,Budapest,0.065,0.035,,1.2,1.2,2200,4,95,463,,2006,
+AMD,Opteron,Budapest,0.065,0.035,,1.2,1.2,2300,4,95,463,,2006,
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,1800,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,2000,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,2200,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,2400,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,2600,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,2800,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Santa Rosa,0.09,0.053,1.3,1.35,1.325,3000,2,95,227.4,230,2005,41.30434783
+AMD,Opteron,Barcelona,0.065,0.035,,1.2,1.2,2000,4,95,463,285,2006,33.33333333
+AMD,Opteron,Barcelona,0.065,0.035,,1.2,1.2,2300,4,95,463,285,2006,33.33333333
+AMD,Opteron,Shanghai,0.045,0.025,,1.35,1.35,2700,4,115,,,2007,
+AMD,Opteron,Shanghai,0.045,0.025,,1.325,1.325,2900,4,115,,,2007,
+AMD,Opteron,Istanbul,0.045,0.025,,1.3,1.3,2600,6,115,904,346,2007,33.23699422
+AMD,Opteron,Santa Rosa,0.09,0.053,1.375,1.375,1.375,2800,2,120,243,220,2005,54.54545455
+AMD,Opteron,Santa Rosa,0.09,0.053,1.375,1.375,1.375,3000,2,120,243,220,2005,54.54545455
+AMD,Opteron,Barcelona,0.065,0.035,1.2,1.2,1.2,2000,4,75,463,285,2006,26.31578947
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,1400,1,,,,2003,
+AMD,Opteron,SledgeHammer,0.13,0.07,,,,2000,1,,,,2003,
+AMD,Opteron,Santa Rosa,0.09,0.053,1.325,1.375,1.35,2800,2,119,,,2005,
+AMD,Opteron,Santa Rosa,0.09,0.053,1.325,1.375,1.35,3000,2,119,,,2005,
+AMD,Opteron,Barcelona,0.065,0.035,,,,2500,4,119,463,285,2006,41.75438596
+AMD,Opteron,Istanbul,0.045,0.025,,1.3,1.3,2800,6,137,,,2007,
+AMD,Phenom II,Heka,0.045,0.025,0.875,1.425,1.15,2600,3,95,758,258,2007,36.82170543
+AMD,Phenom II,Heka,0.045,0.025,0.875,1.425,1.15,2800,3,95,758,258,2007,36.82170543
+AMD,Phenom II,Deneb,0.045,0.025,0.875,1.425,1.15,2500,4,95,758,258,2007,36.82170543
+AMD,Phenom II,Deneb,0.045,0.025,0.875,1.425,1.15,2600,4,95,758,258,2007,36.82170543
+AMD,Phenom II,Deneb,0.045,0.025,0.875,1.425,1.15,2600,4,95,758,258,2007,36.82170543
+AMD,Phenom II,Deneb,0.045,0.025,0.875,1.425,1.15,2800,4,125,758,258,2007,48.4496124
+AMD,Phenom II,Deneb,0.045,0.025,0.85,1.425,1.1375,2800,4,95,758,258,2007,36.82170543
+AMD,Phenom II,Deneb,0.045,0.025,0.875,1.425,1.15,3000,4,125,758,258,2007,48.4496124
+AMD,Phenom II,Deneb,0.045,0.025,0.85,1.4,1.125,3200,4,125,758,258,2007,48.4496124
+AMD,Phenom,Toliman,0.065,0.035,1.2,1.25,1.225,2400,3,95,463,283,2006,33.56890459
+AMD,Phenom,Agena,0.065,0.035,1.15,1.25,1.2,2400,4,95,463,285,2006,33.33333333
+AMD,Phenom,Agena,0.065,0.035,1.2,1.3,1.25,2500,4,125,463,283,2006,44.16961131
+AMD,Phenom,Agena,0.065,0.035,1.25,1.3,1.275,2600,4,140,463,283,2006,49.46996466
+AMD,Phenom,Agena,0.065,0.035,1.075,1.125,1.1,2000,4,65,463,283,2006,22.96819788
+AMD,Turion 64,Lancaster,0.09,0.053,1.2,1.2,1.2,2200,1,25,114,125,2005,20
+AMD,Turion 64 X2,Trinidad,0.09,0.053,,,,1800,2,,,,2005,
+AMD,Turion 64 X2,Tyler,0.065,0.035,1.125,1.125,1.125,2000,2,31,153.8,126,2006,24.6031746
+Broadcom,Broadcom,Zephyr,,,,,,1300,2,,,1,,0
+Cypress,Cypress,,0.8,0.8,5,5,5,40,1,3,0.08,64,1989,4.6875
+Cyrix,486DX,,0.65,0.65,5,5,5,100,1,,1.1,196,1993,0
+Cyrix,486SLC,,0.65,0.65,5,5,5,33,1,,0.6,108,1993,0
+Cyrix,5x86,,0.65,0.65,3.3,3.3,3.3,120,1,3,2,144,1993,2.083333333
+Cyrix,6x86,M1,0.65,0.65,3.3,3.3,3.3,120,1,12,3,210,1996,5.714285714
+Cyrix,6x86,M2,0.35,0.35,2.9,2.9,2.9,188,1,13,6.5,197,1994,6.598984772
+Cyrix,Cyrix III,Joshua,0.18,0.1,2.2,2.2,2.2,450,1,16,22,76,2000,21.05263158
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,100,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,125,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,150,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,166,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,175,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,190,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064,EV4,0.75,0.75,3.3,3.3,3.3,200,1,30,1.68,234,1992,12.82051282
+DEC,Alpha 21064A,EV45,0.5,0.5,3.3,3.3,3.3,225,1,33,2.85,164,1993,20.12195122
+DEC,Alpha 21064A,EV45,0.5,0.5,3.3,3.3,3.3,233,1,33,2.85,164,1993,20.12195122
+DEC,Alpha 21064A,EV45,0.5,0.5,3.3,3.3,3.3,266,1,33,2.85,164,1993,20.12195122
+DEC,Alpha 21064A,EV45,0.5,0.5,3.3,3.3,3.3,275,1,33,2.85,164,1993,20.12195122
+DEC,Alpha 21064A,EV45,0.5,0.5,3.3,3.3,3.3,300,1,33,2.85,164,1993,20.12195122
+DEC,Alpha 21066A,LCA45,,,3.3,3.3,3.3,231,1,23,1.8,161,,14.28571429
+DEC,Alpha 21066A,LCA45,,,3.3,3.3,3.3,233,1,23,1.8,161,,14.28571429
+DEC,Alpha 21066A,LCA45,,,3.3,3.3,3.3,99,1,23,1.8,161,,14.28571429
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,250,1,46,9.3,299,1993,15.38461538
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,266,1,46,9.3,299,1993,15.38461538
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,291,1,51,9.3,299,1993,17.05685619
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,300,1,51,9.3,299,1993,17.05685619
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,333,1,56,9.3,299,1993,18.72909699
+DEC,Alpha 21164,EV5,0.5,0.5,3.3,3.3,3.3,350,1,56,9.3,299,1993,18.72909699
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,352,1,31,9.66,209,1995,14.83253589
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,374,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,400,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,433,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,437,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,466,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,480,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,500,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,533,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,600,1,,9.66,209,1995,0
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,612,1,55,9.66,209,1995,26.31578947
+DEC,Alpha 21164A,EV56,0.35,0.35,2.5,2.5,2.5,767,1,,9.66,209,1995,0
+DEC,Alpha 21164PC,PCA56,0.5,0.5,3.3,3.3,3.3,533,1,35,3.5,141,1993,24.82269504
+DEC,Alpha 21164PC,PCA57,0.28,0.28,2.5,2.5,2.5,600,1,20,5.7,101,1998,19.8019802
+DEC,Alpha 21264,EV6,0.35,0.35,2.1,2.3,2.2,466,1,80,15.2,314,1996,25.47770701
+DEC,Alpha 21264,EV6,0.35,0.35,2.1,2.3,2.2,500,1,91,15.2,314,1996,28.98089172
+DEC,Alpha 21264,EV6,0.35,0.35,2.1,2.3,2.2,525,1,95,15.2,314,1996,30.25477707
+DEC,Alpha 21264,EV6,0.35,0.35,2.1,2.3,2.2,575,1,100,15.2,314,1996,31.84713376
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,616,1,70,15.2,210,1998,33.33333333
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,667,1,73,15.2,210,1998,34.76190476
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,700,1,,15.2,210,1998,0
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,731,1,,15.2,210,1998,0
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,750,1,,15.2,210,1998,0
+DEC,Alpha 21264A,EV67,0.25,0.25,2,2,2,833,1,100,15.2,210,1998,47.61904762
+DEC,Alpha 21264B,EV68A,0.18,0.1,1.7,1.7,1.7,833,1,65,15.2,125,2001,52
+DEC,Alpha 21264C,EV68CB,0.18,0.1,1.7,1.7,1.7,1000,1,64,15.5,120,1998,53.33333333
+DEC,Alpha 21264C,EV68CB,0.18,0.1,1.7,1.7,1.7,1224,1,,15.5,120,1998,0
+DEC,Alpha 21264C,EV68CB,0.18,0.1,1.7,1.7,1.7,1250,1,75,15.5,120,1998,62.5
+DEC,Alpha 21364,EV7,0.18,0.1,1.5,1.5,1.5,1000,1,125,130,397,1998,31.4861461
+DEC,Alpha 21364,EV7,0.18,0.1,1.5,1.5,1.5,1150,1,125,130,397,1998,31.4861461
+DEC,Alpha 21364,EV7z,0.18,0.1,1.5,1.5,1.5,1300,1,125,130,397,1998,31.4861461
+Fujitsu,microSPARC II,Swift,0.4,0.4,3.3,3.3,3.3,110,1,,,233,1995,0
+Fujitsu,microSPARC II,Swift,0.5,0.5,3.3,3.3,3.3,60,1,,2.3,233,1994,0
+Fujitsu,microSPARC II,Swift,0.5,0.5,3.3,3.3,3.3,70,1,,2.3,233,1994,0
+Fujitsu,microSPARC II,Swift,0.5,0.5,3.3,3.3,3.3,85,1,,2.3,233,1994,0
+Fujitsu,SPARC64 GP,,0.24,0.24,,,,224,1,,210,17,1997,0
+Fujitsu,SPARC64 GP,,0.24,0.24,,,,248,1,,,,1997,
+Fujitsu,SPARC64 GP,,0.24,0.24,3.3,3.3,3.3,272,1,50,2.7,240,1997,20.83333333
+Fujitsu,SPARC64 GP,,0.24,0.24,,,,296,1,,,,1997,
+Fujitsu,SPARC64 GP,,0.18,0,2.6,2.6,2.6,360,1,25,,,2000,
+Fujitsu,SPARC64 GP,,0.18,0,,,,400,1,,,,2000,
+Fujitsu,SPARC64 GP,,0.18,0,1.9,1.9,1.9,450,1,21,,126,2000,16.66666667
+Fujitsu,SPARC64 GP,,0.18,0,,,,501,1,,,,2000,
+Fujitsu,SPARC64 GP,,0.18,0,,,,563,1,,,,2000,
+Fujitsu,SPARC64 GP,,0.15,0,,,,600,1,,,,2002,
+Fujitsu,SPARC64 GP,,0.15,0,,,,675,1,,,,2002,
+Fujitsu,SPARC64 GP,,0.15,0,,,,700,1,,,,2002,
+Fujitsu,SPARC64 GP,,0.15,0,,,,788,1,,,,2002,
+Fujitsu,SPARC64 GP,,0.15,0,,,,810,1,,,,2002,
+Fujitsu,SPARC64 V,Zeus,0.13,0,,,,1080,1,,,,0,
+Fujitsu,SPARC64 V,Zeus,0.13,0,,,,1100,1,,,,0,
+Fujitsu,SPARC64 V,Zeus,0.13,0,,,,1320,1,,,,0,
+Fujitsu,SPARC64 V,Zeus,0.13,0,,,,1350,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,1650,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,1870,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,1890,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,1980,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,2025,1,,,,0,
+Fujitsu,SPARC64 V,Olympus-B,0.09,0,,,,2160,1,,,,0,
+Fujitsu,SPARC64 VII,Jupiter,0.065,0.03,,,,2520,4,,600,,2008,
+Fujitsu,SPARC64 VII,Jupiter,0.065,0.03,,,,2750,4,,600,,2008,
+Fujitsu,TurboSPARC,,0.35,0.35,3.3,3.3,3.3,170,1,9,3,132,1996,6.818181818
+HAL,SPARC64,,0.4,0.4,,,,101,1,,,,1995,
+HAL,SPARC64,,0.4,0.4,,,,118,1,,,,1995,
+HAL,SPARC64 II,,0.35,0.35,,,,141,1,,,,1996,
+HAL,SPARC64 II,,0.35,0.35,,,,161,1,,,,1996,
+Hitachi,harp-1,,0.5,0.5,3.3,3.3,3.3,120,1,17,2.8,267,1994,6.367041199
+HP,PA-7000,,1,1,,,,50,1,,0.58,201,1991,0
+HP,PA-7100,Thunderbird,0.8,0.8,,,,100,1,,0.85,196,1992,0
+HP,PA-7100,Thunderbird,0.8,0.8,,,,125,1,,0.85,196,1992,0
+HP,PA-7100,Thunderbird,0.8,0.8,,,,50,1,,0.85,196,1992,0
+HP,PA-7100,Thunderbird,0.8,0.8,,,,80,1,,0.85,196,1992,0
+HP,PA-7100,Thunderbird,0.8,0.8,,,,90,1,,0.85,196,1992,0
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,100,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,48,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,60,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,64,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,75,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,80,1,,,,1994,
+HP,PA-7100LC,Hummingbird,0.75,0.75,,,,96,1,,,,1994,
+HP,PA-7150,,0.8,0.8,,,,120,1,,,,1992,
+HP,PA-7150,,0.8,0.8,,,,125,1,,,,1992,
+HP,PA-7150,,0.8,0.8,,,,99,1,,,,1992,
+HP,PA-7200,Thunderbird',0.55,0.55,,,,100,1,29,,,1995,
+HP,PA-7200,Thunderbird',0.55,0.55,,,,120,1,29,,,1995,
+HP,PA-7300LC,,0.5,0.5,,,,132,1,,,,1996,
+HP,PA-7300LC,,0.5,0.5,3.3,3.3,3.3,160,1,15,9,259,1996,5.791505792
+HP,PA-7300LC,,0.5,0.5,,,,180,1,,,,1996,
+HP,PA-8000,Onyx,0.5,0.5,,,,160,1,,,,1996,
+HP,PA-8000,Onyx,0.5,0.5,,,,180,1,,,,1996,
+HP,PA-8200,Vulcan,0.5,0.5,,,,200,1,,,,1996,
+HP,PA-8200,Vulcan,0.5,0.5,,,,236,1,,,,1996,
+HP,PA-8200,Vulcan,0.5,0.5,,,,240,1,,,,1996,
+HP,PA-8500,Vulcan,0.25,0.2,,,,300,1,,,,1997,
+HP,PA-8500,Vulcan,0.25,0.2,,,,360,1,,,,1997,
+HP,PA-8500,Vulcan,0.25,0.2,,,,367,1,,,,1997,
+HP,PA-8500,Vulcan,0.25,0.2,,,,400,1,,,,1997,
+HP,PA-8500,Vulcan,0.25,0.2,2,2,2,440,1,42,140,467,1997,8.993576017
+HP,PA-8600,Landshark,0.25,0.2,,,,440,1,,,,1997,
+HP,PA-8600,Landshark,0.25,0.2,,,,500,1,,,,1997,
+HP,PA-8600,Landshark,0.25,0.2,,,,550,1,,,,1997,
+HP,PA-8600,Landshark,0.25,0.2,2,2,2,552,1,53,140,467,1997,11.3490364
+HP,PA-8700,Piranha,0.18,0.1,,,,625,1,,,,1998,
+HP,PA-8700,Piranha,0.18,0.1,,,,650,1,,,,1998,
+HP,PA-8700,Piranha,0.18,0.1,1.65,1.65,1.65,750,1,42,186,306,1998,13.7254902
+HP,PA-8700+,Piranha,0.18,0.1,,,,875,1,,,,1998,
+IBM,Power2,P2SC,0.25,0.18,,,,160,1,,,,1997,
+IBM,Power2,RIOS2,0.72,0.45,,,,59,1,,23,1215,1993,0
+IBM,Power2,Power2+,0.72,0.45,,,,66,1,,,,1993,
+IBM,Power2,Power2+,0.72,0.45,,,,67,1,,,,1993,
+IBM,Power2,Power2+,0.72,0.45,,,,71,1,,,,1993,
+IBM,Power2,P2SC,0.29,0.29,,,,77,1,,15,335,1996,0
+IBM,Power3,,0.25,0.18,,,,200,1,,15,270,1997,0
+IBM,Power3,,0.25,0.18,,,,222,1,,15,270,1997,0
+IBM,Power3,,0.25,0.18,,,,375,1,,15,270,1997,0
+IBM,Power3-II,,0.22,0.22,,,,333,1,,23,170,1999,0
+IBM,Power3-II,,0.22,0.22,,,,375,1,,23,170,1999,0
+IBM,Power3-II,,0.22,0.22,,,,400,1,,23,170,1999,0
+IBM,Power3-II,,0.22,0.22,,,,450,1,,23,170,1999,0
+IBM,Power4+,Giga Processor,0.13,0,,,,1000,1,115,184,267,2001,43.07116105
+IBM,Power4+,Giga Processor,0.13,0,,,,1200,1,115,184,267,2001,43.07116105
+IBM,Power4+,Giga Processor,0.13,0,,,,1450,1,115,184,267,2001,43.07116105
+IBM,Power5,,0.13,0,1.2,1.2,1.2,1500,2,,276,389,2001,0
+IBM,Power5,,0.13,0,1.2,1.2,1.2,1650,2,,276,389,2001,0
+IBM,Power5,,0.13,0,1.2,1.2,1.2,1900,2,100,276,389,2001,25.70694087
+IBM,Power5,,0.13,0,1.2,1.2,1.2,2100,2,,276,389,2001,0
+IBM,Power5,,0.13,0,1.2,1.2,1.2,2200,2,,276,389,2001,0
+IBM,Power5,,0.13,0,1.2,1.2,1.2,2300,2,,276,389,2001,0
+IBM,Power6,,0.065,0.035,0.8,1.2,1,3500,2,160,790,341,2006,46.92082111
+IBM,Power6,,0.065,0.035,0.8,1.2,1,3800,2,160,790,341,2006,46.92082111
+IBM,Power6,,0.065,0.035,0.8,1.2,1,4200,2,160,790,341,2006,46.92082111
+IBM,Power6,,0.065,0.035,0.8,1.2,1,4700,2,160,790,341,2006,46.92082111
+IBM,Power6,,0.065,0.035,0.8,1.2,1,5000,2,160,790,341,2006,46.92082111
+IBM,Power7,,0.045,0.025,,,,3550,8,200,1200,567,2010,35.27336861
+IBM,Power7,,0.045,0.025,,,,3700,6,200,1200,567,2010,35.27336861
+IBM,PowerPC 7xx,Arthur,0.26,0.18,2.6,2.6,2.6,266,1,8,6.35,67,1997,11.94029851
+IBM,PowerPC 7xx,Arthur,0.26,0.18,2.6,2.6,2.6,400,1,8,6.35,67,1997,11.94029851
+IBM,PowerPC 970,GP-UL,0.09,0,,,,2200,1,11,,,2004,
+IBM,PowerPC 602,,0.5,0.45,3.3,3.3,3.3,66,1,1.2,1,50,1994,2.4
+IBM,PowerPC 603,,0.5,0.45,3.3,3.3,3.3,80,1,2.2,1.6,83,1994,2.65060241
+IBM,PowerPC 620,,0.5,0.45,3.3,3.3,3.3,133,1,30,7,311,1994,9.646302251
+IBM,PowerPC 630,,0.25,0.18,2.5,2.5,2.5,200,1,,,270,1997,0
+IBM,PowerPC 601,,0.6,0.6,3.6,3.6,3.6,66,1,6.5,2.8,121,1993,5.371900826
+IBM,PowerPC 601,,0.6,0.6,3.6,3.6,3.6,75,1,6.5,2.8,121,1993,5.371900826
+IBM,PowerPC 601,,0.6,0.6,3.6,3.6,3.6,80,1,,2.8,121,1993,0
+IBM,PowerPC 601v,,0.5,0.45,3.3,3.3,3.3,120,1,5.6,2.8,121,1994,4.628099174
+IBM,PowerPC 603,,0.5,0.45,3.3,3.3,3.3,66,1,3,1.6,85,1994,3.529411765
+IBM,PowerPC 603e,,0.5,0.45,3.3,3.3,3.3,100,1,3.5,2.6,98,1994,3.571428571
+IBM,PowerPC 603e,,0.5,0.45,3.3,3.3,3.3,166,1,,2.6,78,1994,0
+IBM,PowerPC 603ev,,0.35,0.35,2.5,2.5,2.5,200,1,5.5,2.6,80,1994,6.875
+IBM,PowerPC 603ev,,0.35,0.35,2.5,2.5,2.5,300,1,3.5,2.6,42,1994,8.333333333
+IBM,PowerPC 604,,0.35,0.35,2.5,2.5,2.5,100,1,14,3.6,196,1994,7.142857143
+IBM,PowerPC 604,,0.35,0.35,2.5,2.5,2.5,112,1,,3.6,196,1994,0
+IBM,PowerPC 604,,0.35,0.35,2.5,2.5,2.5,120,1,,3.6,196,1994,0
+IBM,PowerPC 604,,0.35,0.35,2.5,2.5,2.5,133,1,,3.6,196,1994,0
+IBM,PowerPC 604e,,0.35,0.35,2.5,2.5,2.5,166,1,,5.1,96,1994,0
+IBM,PowerPC 604e,,0.35,0.35,2.5,2.5,2.5,200,1,,5.1,96,1994,0
+IBM,PowerPC 604e,,0.35,0.35,2.5,2.5,2.5,225,1,,5.1,148,1994,0
+IBM,PowerPC 604e,,0.35,0.35,2.5,2.5,2.5,233,1,,5.1,96,1994,0
+IBM,PowerPC 604e,,0.35,0.35,2.5,2.5,2.5,250,1,,5.1,96,1994,0
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,300,1,,5.1,47,1997,0
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,320,1,,5.1,47,1997,0
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,332,1,,5.1,47,1997,0
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,350,1,8,5.1,47,1997,17.0212766
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,360,1,,5.1,47,1997,0
+IBM,PowerPC 604ev,Mach 5,0.25,0.18,1.9,1.9,1.9,375,1,,5.1,47,1997,0
+IBM,RS64 IV,Sstar,0.18,0.1,,,,600,1,15,44,128,1998,11.71875
+IBM,RS64 IV,Sstar,0.18,0.1,,,,750,1,15,44,128,1998,11.71875
+IBM,RS64-II,Northstar,0.35,0.35,,,,262,1,27,12.5,162,1994,16.66666667
+IBM,RS64-II,Northstar,0.35,0.35,,,,340,1,27,12.5,162,1994,16.66666667
+IBM,RS64-III,Pulsar,0.22,0.22,,,,400,1,,34,140,1999,0
+IBM,RS64-III,Pulsar,0.22,0.22,,,,450,1,,34,140,1999,0
+IBM,RS64-III,Pulsar,0.22,0.22,,,,500,1,,34,140,1999,0
+Intel,4004,,10,10,15,15,15,0.108,1,0.5,0.0023,12,1971,4.166666667
+Intel,8008,,10,10,5,5,5,0.2,1,1,0.0035,16,1971,6.25
+Intel,8080,,6,6,5,5,5,2,1,0.8,0.006,20,1974,4
+Intel,8086,,3.2,3.2,5,5,5,5,1,1.7,0.029,33,1976,5.151515152
+Intel,8086,,3.2,3.2,5,5,5,8,1,1.8,,33,1976,5.454545455
+Intel,8086,,3.2,3.2,5,5,5,10,1,1.8,,33,1976,5.454545455
+Intel,8088,,3.2,3.2,5,5,5,8,1,1.8,0.029,33,1976,5.454545455
+Intel,80286,,1.5,1.5,5,5,5,6,1,3.3,0.134,47,1982,7.021276596
+Intel,80286,,1.5,1.5,5,5,5,10,1,3.3,,47,1982,7.021276596
+Intel,80286,,1.5,1.5,5,5,5,12,1,3.3,,47,1982,7.021276596
+Intel,80386 DX,,1.5,1.5,5,5,5,16,1,1.7,0.275,103,1982,1.650485437
+Intel,80386 DX,,1,1,5,5,5,20,1,1.3,,46,1987,2.826086957
+Intel,80386 DX,,1,1,5,5,5,25,1,1.6,,46,1987,3.47826087
+Intel,80386 DX,,1,1,5,5,5,33,1,2,,46,1987,4.347826087
+Intel,80486 DX,,1,1,5,5,5,25,1,4.5,1.2,173,1987,2.601156069
+Intel,80486 DX,,1,1,5,5,5,33,1,3.5,1.2,173,1987,2.023121387
+Intel,80486 DX,,0.8,0.8,5,5,5,50,1,4,,76,1992,5.263157895
+Intel,80486 DX2,,0.8,0.8,5,5,5,66,1,5.8,,76,1992,7.631578947
+Intel,80486 DX4,,0.6,0.6,3.3,3.3,3.3,100,1,4.1,1.6,87,1994,4.712643678
+Intel,Atom,Diamondville,0.045,0.035,0.9,1.1625,1.03125,1600,1,4,47,26,2007,15.38461538
+Intel,Atom,Diamondville,0.045,0.035,0.9,1.1625,1.03125,1600,2,8,94,52,2007,15.38461538
+Intel,Atom,Pineview,0.045,0.035,,,,1667,2,13,,,2007,
+Intel,Atom,Tunnel Creek,0.045,0.035,0.75,0.9,0.825,1300,1,3.6,,,2007,
+Intel,Atom,Stellarton,0.045,0.035,0.8,1.175,0.9875,1300,1,7,,,2007,
+Intel,Atom,Diamondville,0.045,0.035,0.75,1.1,0.925,1600,1,,,,2007,
+Intel,Atom,Diamondville,0.045,0.035,0.9,1.1625,1.03125,1660,1,2.5,47,26,2007,9.615384615
+Intel,Atom,Pineview,0.045,0.035,,,,1666,1,2.5,,,2007,
+Intel,Atom,Silverthorne,0.045,0.035,0.75,1.1,0.925,1330,1,2,47,26,2007,7.692307692
+Intel,Atom,Silverthorne,0.045,0.035,0.75,1.1,0.925,1600,1,2,47,26,2007,7.692307692
+Intel,Celeron,Conroe-L,0.065,0.035,,,,2000,1,,,,2005,
+Intel,Celeron,Mendocino,0.25,0.2,2,2,2,300,1,17.8,7.5,152,1997,11.71052632
+Intel,Celeron,,0.25,0.2,,2,2,266,1,16.59,,,1997,
+Intel,Celeron,Covington,0.25,0.2,,,,300,1,,,,1997,
+Intel,Celeron,Mendocino,0.25,0.2,,2,2,333,1,19.7,19,154,1997,12.79220779
+Intel,Celeron,Mendocino,0.25,0.2,,,,366,1,,,,1997,
+Intel,Celeron,Mendocino,0.25,0.2,,2,2,400,1,23.7,19,154,1997,15.38961039
+Intel,Celeron,Mendocino,0.25,0.2,,,,433,1,,,,1997,
+Intel,Celeron,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2400,2,65,,82,2007,79.26829268
+Intel,Celeron,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2500,2,65,,82,2007,79.26829268
+Intel,Celeron,Clarkdale,0.032,0.018,,,,2267,2,,,,2010,
+Intel,Celeron,Penryn,0.045,0.035,1.05,1.15,1.1,1200,2,10,410,107,2007,9.345794393
+Intel,Celeron,Merom,0.065,0.035,0.95,1.3,1.125,2130,1,31,291,143,2005,21.67832168
+Intel,Core 2 Duo,Allendale,0.065,0.035,0.85,1.5,1.175,1800,2,65,167,111,2005,58.55855856
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2200,2,65,167,111,2005,58.55855856
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2400,2,65,167,111,2005,58.55855856
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,1860,2,65,167,111,2005,58.55855856
+Intel,Core 2 Duo,Conroe,0.065,0.035,,,,1866,2,65,,,2005,
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2133,2,65,291,143,2005,45.45454545
+Intel,Core 2 Duo,Conroe,0.065,0.035,,,,2133,2,65,,,2005,
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2400,2,65,291,143,2005,45.45454545
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2660,2,65,291,143,2005,45.45454545
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,2666,2,65,291,143,2005,45.45454545
+Intel,Core 2 Duo,Conroe,0.065,0.035,0.85,1.5,1.175,3000,2,65,291,143,2005,45.45454545
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2530,2,65,228,82,2007,79.26829268
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2660,2,65,228,82,2007,79.26829268
+Intel,Core 2 Duo,Wolfdale-3M,0.045,0.035,0.85,1.3625,1.10625,2800,2,65,420,107,2007,60.74766355
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2930,2,65,228,82,2007,79.26829268
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3060,2,65,228,82,2007,79.26829268
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2660,2,65,410,107,2007,60.74766355
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3000,2,65,410,107,2007,60.74766355
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3160,2,65,410,107,2007,60.74766355
+Intel,Core 2 Duo,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3330,2,65,410,107,2007,60.74766355
+Intel,Core 2 Duo,Penryn-3M,0.045,0.035,1,1.25,1.125,2266,2,25,410,107,2007,23.36448598
+Intel,Core 2 Duo,Penryn,0.045,0.035,1.05,1.15,1.1,2400,2,25,410,107,2007,23.36448598
+Intel,Core 2 Duo,Penryn,0.045,0.035,1.05,1.15,1.1,1400,2,10,410,107,2007,9.345794393
+Intel,Core 2 Duo,Merom,0.065,0.035,0.9,1.175,1.0375,1800,2,35,291,143,2005,24.47552448
+Intel,Core 2 Duo,Merom,0.065,0.035,1.0375,1.3,1.16875,2167,2,34,291,143,2005,23.77622378
+Intel,Core 2 Duo,Merom,0.065,0.035,1.0375,1.3,1.16875,1667,2,34,291,143,2005,23.77622378
+Intel,Core 2 Duo,Merom,0.065,0.035,1.0375,1.3,1.16875,2000,2,34,291,143,2005,23.77622378
+Intel,Core 2 Duo,Merom,0.065,0.035,1.0375,1.3,1.16875,2330,2,34,291,143,2005,23.77622378
+Intel,Core 2 Duo,Merom,0.065,0.035,1.0375,1.3,1.16875,2400,2,35,291,143,2005,24.47552448
+Intel,Core 2 Duo,Merom,0.065,0.035,1.075,1.25,1.1625,2600,2,35,291,143,2005,24.47552448
+Intel,Core 2 Duo,Penryn,0.045,0.035,1.05,1.162,1.106,2533,2,35,410,107,2007,32.71028037
+Intel,Core 2 Duo,Penryn,0.045,0.035,1,1.25,1.125,2600,2,35,410,107,2007,32.71028037
+Intel,Core 2 Duo,Penryn,0.045,0.035,1.05,1.2125,1.13125,2800,2,35,410,107,2007,32.71028037
+Intel,Core 2 Duo,Penryn,0.045,0.035,1.05,1.2125,1.13125,3060,2,35,410,107,2007,32.71028037
+Intel,Core 2 Duo,Merom,0.065,0.035,0.8,0.975,0.8875,1200,2,10,291,143,2005,6.993006993
+Intel,Core 2 Extreme,Conroe,0.065,0.035,0.85,1.5,1.175,2930,2,75,291,143,2005,52.44755245
+Intel,Core 2 Extreme,Merom,0.065,0.035,1.1,1.375,1.2375,2600,2,44,291,143,2005,30.76923077
+Intel,Core 2 Extreme,Merom,0.065,0.035,1.1,1.375,1.2375,2800,2,44,291,143,2005,30.76923077
+Intel,Core 2 Extreme,Penryn,0.045,0.035,1,1.275,1.1375,2800,2,44,410,107,2007,41.12149533
+Intel,Core 2 Quad,Kentsfield,0.065,0.035,0.85,1.5,1.175,2400,4,105,582,286,2005,36.71328671
+Intel,Core 2 Quad,Kentsfield,0.065,0.035,0.85,1.5,1.175,2667,4,105,582,286,2005,36.71328671
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2330,4,95,456,164,2007,57.92682927
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2500,4,95,456,164,2007,57.92682927
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2660,4,95,456,164,2007,57.92682927
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2500,4,95,456,164,2007,57.92682927
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2666,4,95,456,164,2007,57.92682927
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2660,4,95,820,214,2007,44.39252336
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2830,4,95,820,214,2007,44.39252336
+Intel,Core 2 Quad,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,3000,4,95,820,214,2007,44.39252336
+Intel,Core 2 Quad Extreme,Kentsfield,0.065,0.035,1.34,1.34,1.34,2667,4,130,291,143,2005,90.90909091
+Intel,Core 2 Quad Extreme,Kentsfield,0.065,0.035,1.1,1.372,1.236,2933,4,130,582,286,2005,45.45454545
+Intel,Core 2 Quad Extreme,Kentsfield,0.065,0.035,1.1,1.372,1.236,3000,4,130,582,286,2005,45.45454545
+Intel,Core 2 Quad Extreme,Kentsfield,0.045,0.035,1.05,1.175,1.1125,2530,4,45,820,214,2007,21.02803738
+Intel,Core 2 Quad Extreme,Kentsfield,0.045,0.035,0.85,1.3625,1.10625,3000,4,130,820,214,2007,60.74766355
+Intel,Core 2 Quad Extreme,Kentsfield,0.045,0.035,0.85,1.3625,1.10625,3200,4,136,820,214,2007,63.55140187
+Intel,Core 2 Solo,Penryn,0.045,0.035,1.05,1.15,1.1,1400,1,5.5,410,107,2007,5.140186916
+Intel,Core Duo,Yonah,0.065,0.035,1.1625,1.3,1.23125,1660,2,31,151,90,2005,34.44444444
+Intel,Core Duo,Yonah,0.065,0.035,1.1625,1.3,1.23125,1830,2,31,151,90,2005,34.44444444
+Intel,Core Duo,Yonah,0.065,0.035,,,,2000,2,,,,2005,
+Intel,Core Duo,Yonah,0.065,0.035,1.1625,1.3,1.23125,2167,2,31,151,90,2005,34.44444444
+Intel,Core Duo,Yonah,0.065,0.035,1.1625,1.3,1.23125,2330,2,31,151,90,2005,34.44444444
+Intel,Core i3,Arrandale,0.045,0.035,0.775,1.4,1.0875,2130,2,35,382,81,2007,43.20987654
+Intel,Core i3,Arrandale,0.045,0.035,0.775,1.4,1.0875,2530,2,35,382,81,2007,43.20987654
+Intel,Core i3,Clarkdale,0.032,0.018,0.65,1.4,1.025,2933,2,73,382,81,2010,90.12345679
+Intel,Core i3,Clarkdale,0.032,0.018,0.65,1.4,1.025,3067,2,73,382,81,2010,90.12345679
+Intel,Core i3,Clarkdale,0.032,0.018,0.65,1.4,1.025,3200,2,73,382,81,2010,90.12345679
+Intel,Core i3,Clarkdale,0.032,0.018,0.65,1.4,1.025,3333,2,73,382,81,2010,90.12345679
+Intel,Core i5,Arrandale,0.032,0.018,0.775,1.4,1.0875,2530,2,35,177,81,2010,43.20987654
+Intel,Core i5,Arrandale,0.032,0.018,0.775,1.4,1.0875,2667,2,35,177,81,2010,43.20987654
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,3200,2,73,382,81,2010,90.12345679
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,3333,2,73,382,81,2010,90.12345679
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,3333,2,87,382,81,2010,107.4074074
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,3467,2,73,382,81,2010,90.12345679
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,3600,2,73,382,81,2010,90.12345679
+Intel,Core i5,Lynnfield,0.045,0.035,0.762,1.4,1.081,2667,4,95,774,296,2007,32.09459459
+Intel,Core i5,Clarkdale,0.032,0.018,0.65,1.4,1.025,2400,2,35,381,81,2010,43.20987654
+Intel,Core i7,Clarksfield,0.045,0.035,0.65,1.4,1.025,1600,4,45,774,296,2007,15.2027027
+Intel,Core i7,Lynnfield,0.045,0.035,0.65,1.4,1.025,2800,4,95,774,296,2007,32.09459459
+Intel,Core i7,Lynnfield,0.045,0.035,0.65,1.4,1.025,2933,4,95,774,296,2007,32.09459459
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,2667,4,130,731,263,2007,49.42965779
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,2933,4,130,731,263,2007,49.42965779
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3060,4,130,731,263,2007,49.42965779
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3200,4,130,731,263,2007,49.42965779
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3333,4,130,731,263,2007,49.42965779
+Intel,Core i7,Arrandale,0.032,0.018,0.775,1.4,1.0875,2533,2,35,382,81,2010,43.20987654
+Intel,Core i7,Gulftown,0.045,0.035,0.8,1.375,1.0875,3200,4,130,731,263,2007,49.42965779
+Intel,Core i7,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3333,4,130,731,263,2007,49.42965779
+Intel,Core i7,Gulftown,0.032,0.018,0.8,1.375,1.0875,3333,6,130,1170,248,2010,52.41935484
+Intel,Core i7,Sandy Bridge,0.032,0.018,,,,3400,4,95,995,216,2010,43.98148148
+Intel,Itanium,Merced,0.18,0.13,,,,733,1,,,,1999,
+Intel,Itanium,Merced,0.18,0.13,1.65,1.65,1.65,800,1,130,25,300,1999,43.33333333
+Intel,Itanium 2,Mckinley,0.18,0.13,1.5,1.5,1.5,1000,1,130,221,421,1999,30.87885986
+Intel,Itanium 2,Mckinley,0.18,0.13,,,,900,1,,,,1999,
+Intel,Pentium,Conroe,0.065,0.035,0.85,1.5,1.175,1600,2,65,105,77,2005,84.41558442
+Intel,Pentium,Allendale,0.065,0.035,1.162,1.312,1.237,1800,2,65,105,77,2005,84.41558442
+Intel,Pentium,Conroe,0.065,0.035,0.85,1.5,1.175,2200,2,65,105,77,2005,84.41558442
+Intel,Pentium,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2500,2,65,228,82,2007,79.26829268
+Intel,Pentium,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,2600,2,65,228,82,2007,79.26829268
+Intel,Pentium,Clarkdale,0.032,0.018,0.65,1.4,1.025,2800,2,73,382,81,2010,90.12345679
+Intel,Pentium,,0.6,0.6,3.135,3.6,3.3675,100,1,3.9,,148,1994,2.635135135
+Intel,Pentium,,0.6,0.6,3.4,3.6,3.5,120,1,5.1,,91,1994,5.604395604
+Intel,Pentium,,0.35,0.25,2.285,2.665,2.475,133,1,4.3,3.3,83,1994,5.180722892
+Intel,Pentium,,0.35,0.25,2.285,2.665,2.475,150,1,31.7,,,1994,
+Intel,Pentium,,0.35,0.25,2.7,2.9,2.8,166,1,13.1,,83,1994,15.78313253
+Intel,Pentium,N/A,0.25,0.2,2.7,2.9,2.8,200,1,15.7,,83,1997,18.91566265
+Intel,Pentium,N/A,0.25,0.2,2.7,2.9,2.8,233,1,17,,,1997,
+Intel,Pentium,P5,0.8,0.8,5,5,5,60,1,13,3.2,294,1992,4.421768707
+Intel,Pentium,P5,0.8,0.8,5,5,5,66,1,13,3.2,294,1992,4.421768707
+Intel,Pentium,N/A,0.6,0.6,3.135,3.6,3.3675,75,1,,,,1994,
+Intel,Pentium,N/A,0.6,0.6,3.135,3.6,3.3675,90,1,,,,1994,
+Intel,Pentium,Penryn,0.045,0.035,1.05,1.15,1.1,1300,1,10,410,107,2007,9.345794393
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.425,1.3125,2800,1,84,125,112,2003,75
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.425,1.3125,2800,1,84,125,112,2003,75
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.425,1.3125,3000,1,84,125,112,2003,75
+Intel,Pentium 4,Prescott,0.09,0.053,,,,3000,1,,,,2003,
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.425,1.3125,3600,1,115,125,112,2003,102.6785714
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.425,1.3125,3800,1,115,125,112,2003,102.6785714
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.4,1.3,3000,1,84,169,135,2003,62.22222222
+Intel,Pentium 4,Cedar Mill,0.065,0.035,1.2,1.3375,1.26875,3000,1,86,188,81,2005,106.1728395
+Intel,Pentium 4,Prescott,0.09,0.053,1.2,1.4,1.3,3200,1,84,169,135,2003,62.22222222
+Intel,Pentium 4,Cedar Mill,0.065,0.035,,,,3400,1,,,,2005,
+Intel,Pentium 4,Willamette,0.18,0.13,1.595,1.75,1.6725,1500,1,57.8,42,217,1999,26.6359447
+Intel,Pentium 4,Willamette,0.18,0.13,1.56,1.75,1.655,2000,1,71.8,42,217,1999,33.0875576
+Intel,Pentium 4,Northwood,0.13,0.07,1.36,1.435,1.3975,2200,1,57.1,55,131,2002,43.58778626
+Intel,Pentium 4,Northwood,0.13,0.07,1.35,1.43,1.39,2400,1,59.8,55,131,2002,45.64885496
+Intel,Pentium 4,Northwood,0.13,0.07,,,,3200,1,,,,2002,
+Intel,Pentium 4 EE,Prescott 2M,0.09,0.053,,,,3800,1,,,,2003,
+Intel,Pentium 4 EE,Prescott 2M,0.09,0.053,1.5,1.5,1.5,3733,1,109,169,135,2003,80.74074074
+Intel,Pentium D,Smithfield,0.09,0.053,1.2,1.4,1.3,2660,2,95,230,206,2003,46.11650485
+Intel,Pentium D,Smithfield,0.09,0.053,1.2,1.4,1.3,2800,2,95,230,206,2003,46.11650485
+Intel,Pentium D,Smithfield,0.09,0.053,1.2,1.4,1.3,3200,2,130,230,206,2003,63.10679612
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,2800,2,95,376,162,2005,58.64197531
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3000,2,95,376,162,2005,58.64197531
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3000,2,95,376,162,2005,58.64197531
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3200,2,130,376,162,2005,80.24691358
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3400,2,95,376,162,2005,58.64197531
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3400,2,130,376,162,2005,80.24691358
+Intel,Pentium D,Presler,0.065,0.035,1.2,1.3375,1.26875,3600,2,130,376,162,2005,80.24691358
+Intel,Pentium EE,Presler,0.065,0.035,,,,3466,2,,,,2005,
+Intel,Pentium EE,Presler,0.065,0.035,,,,3733,2,,,,2005,
+Intel,Pentium II,N/A,0.28,0,2.8,2.8,2.8,233,1,34.8,,,1997,
+Intel,Pentium II,N/A,0.28,0,2.8,2,2.4,266,1,16.8,,,1997,
+Intel,Pentium II,N/A,0.28,0,2.8,2,2.4,300,1,21.5,7.5,203,1997,10.591133
+Intel,Pentium II,N/A,0.25,0.2,2,2,2,333,1,20.6,,113,1997,18.2300885
+Intel,Pentium II,N/A,0.25,0.2,,2,2,350,1,21.5,,,1997,
+Intel,Pentium II,N/A,0.25,0.2,,2,2,400,1,24.3,,,1997,
+Intel,Pentium II,Katmai,0.25,0.2,,2,2,450,1,27.1,,,1997,
+Intel,Pentium III,Coppermine,0.18,0.13,1.7,1.7,1.7,1000,1,22,,90,1999,24.44444444
+Intel,Pentium III,Coppermine,0.18,0.13,,,,1100,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,1113,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,1133,1,,,,1999,
+Intel,Pentium III,Tualatin,0.13,0.07,,,,1200,1,,,,2002,
+Intel,Pentium III,Tualatin,0.13,0.07,,,,1266,1,,,,2002,
+Intel,Pentium III,Tualatin,0.13,0.07,,,,1400,1,,,,2002,
+Intel,Pentium III,Katmai,0.25,0.2,,2,2,450,1,25.3,,,1997,
+Intel,Pentium III,Katmai,0.25,0.2,2,2,2,500,1,28,9.5,128,1997,21.875
+Intel,Pentium III,Katmai,0.25,0.2,,2,2,550,1,30.8,,,1997,
+Intel,Pentium III,Katmai,0.25,0.2,,2.05,2.05,600,1,34.5,,,1997,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,650,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,667,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,700,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,1.65,1.65,1.65,733,1,16,28,106,1999,15.09433962
+Intel,Pentium III,Coppermine,0.18,0.13,,,,750,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,800,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,850,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,866,1,,,,1999,
+Intel,Pentium III,Coppermine,0.18,0.13,,,,933,1,,,,1999,
+Intel,Pentium M,Dothan,0.09,0.053,,,,2000,1,,,,2003,
+Intel,Pentium M,Banias,0.13,0.07,0.956,1.388,1.172,1300,1,22,77,83,2002,26.5060241
+Intel,Pentium M,Banias,0.13,0.07,0.844,1.004,0.924,900,1,7,77,83,2002,8.43373494
+Intel,Pentium MMX,P55C,0.28,0,2.8,2.8,2.8,200,1,7.3,4.5,140,1997,5.214285714
+Intel,Pentium MMX,P55C,0.28,0,2.8,2.8,2.8,233,1,7.9,,140,1997,5.642857143
+Intel,Pentium Pro,N/A,0.5,0.5,,3.3,3.3,150,1,31.7,,,1995,
+Intel,Pentium Pro,N/A,0.35,0.25,,3.3,3.3,166,1,35,,,1994,
+Intel,Pentium Pro,N/A,0.35,0.25,,3.3,3.3,180,1,31.7,,,1994,
+Intel,Pentium Pro,N/A,0.35,0.25,,3.3,3.3,200,1,37.9,,,1994,
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.5,1.175,1860,2,65,167,111,2005,58.55855856
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.5,1.175,2130,2,65,167,111,2005,58.55855856
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.5,1.175,2400,2,65,291,143,2005,45.45454545
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.5,1.175,2330,2,65,291,143,2005,45.45454545
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.5,1.175,2660,2,65,291,143,2005,45.45454545
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.3625,1.10625,2660,2,65,291,143,2005,45.45454545
+Intel,Xeon,Conroe,0.065,0.035,0.85,1.3625,1.10625,3000,2,65,291,143,2005,45.45454545
+Intel,Xeon,Dempsey,0.065,0.035,1.075,1.35,1.2125,3000,2,95,376,162,2005,58.64197531
+Intel,Xeon,Dempsey,0.065,0.035,1.075,1.35,1.2125,3730,2,130,376,162,2005,80.24691358
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,1600,2,65,291,143,2005,45.45454545
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,1860,2,65,291,143,2005,45.45454545
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,2000,2,65,291,143,2005,45.45454545
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,2333,2,65,291,143,2005,45.45454545
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,2660,2,65,291,143,2005,45.45454545
+Intel,Xeon,Woodcrest,0.065,0.035,1,1.5,1.25,3000,2,80,291,143,2005,55.94405594
+Intel,Xeon,Paxville,0.09,0.053,1.2625,1.4125,1.3375,2660,2,165,230,206,2003,80.09708738
+Intel,Xeon,Paxville,0.09,0.053,1.2625,1.4125,1.3375,3000,2,165,230,206,2003,80.09708738
+Intel,Xeon,Tulsa,0.065,0.035,1.1,1.35,1.225,2600,2,95,1328,435,2005,21.83908046
+Intel,Xeon,Tulsa,0.065,0.035,1.1,1.35,1.225,3000,2,95,1328,435,2005,21.83908046
+Intel,Xeon,Tulsa,0.065,0.035,1.1,1.35,1.225,3200,2,150,1328,435,2005,34.48275862
+Intel,Xeon,Tulsa,0.065,0.035,1.1,1.35,1.225,3400,2,150,1328,435,2005,34.48275862
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3000,2,65,410,107,2007,60.74766355
+Intel,Xeon,Wolfdale,0.045,0.035,0.95,1.21,1.08,3000,2,65,410,107,2007,60.74766355
+Intel,Xeon,Wolfdale,0.045,0.035,,1.3625,1.3625,3160,2,65,410,107,2007,60.74766355
+Intel,Xeon,Wolfdale,0.045,0.035,0.95,1.212,1.081,1860,2,65,410,107,2007,60.74766355
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,1600,4,80,582,286,2005,27.97202797
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,1860,4,80,582,286,2005,27.97202797
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,2000,4,80,582,286,2005,27.97202797
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,2330,4,80,582,286,2005,27.97202797
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2000,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2330,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2500,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2660,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2830,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3000,4,80,820,214,2007,37.38317757
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3000,4,80,820,214,2007,37.38317757
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,1860,2,80,,263,2007,30.41825095
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2000,2,80,,263,2007,30.41825095
+Intel,Xeon,Nehalem-EP,0.045,0.035,0.75,1.35,1.05,2000,4,80,,263,2007,30.41825095
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2130,4,80,,263,2007,30.41825095
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2260,4,80,,263,2007,30.41825095
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2260,4,80,731,263,2007,30.41825095
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2400,4,80,731,263,2007,30.41825095
+Intel,Xeon,Nehalem-EP,0.045,0.035,0.75,1.35,1.05,2530,4,80,,263,2007,30.41825095
+Intel,Xeon,Westmere-EP,0.032,0.018,0.8,1.3,1.05,2400,4,80,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2530,4,80,,,2010,
+Intel,Xeon,Westmere-EP,0.032,0.018,0.8,1.3,1.05,2670,4,80,,,2010,
+Intel,Xeon,Jasper Forest,0.045,0.035,1,1.5,1.25,2533,4,85,,,2007,
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.3625,1.10625,3000,2,45,410,107,2007,42.05607477
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2830,4,65,820,214,2007,30.37383178
+Intel,Xeon,Clarkdale,0.032,0.018,0.65,1.4,1.025,2260,2,30,382,81,2010,37.03703704
+Intel,Xeon,Lynnfield,0.045,0.035,0.65,1.4,1.025,1860,4,45,774,296,2007,15.2027027
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.35,1.1,1860,2,20,410,107,2007,18.69158879
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.35,1.1,3000,2,40,410,107,2007,37.38317757
+Intel,Xeon,Clovertown,0.065,0.035,1.1,1.25,1.175,1860,4,50,582,286,2005,17.48251748
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2133,4,40,820,214,2007,18.69158879
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2330,4,50,820,214,2007,23.36448598
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,2500,4,50,820,214,2007,23.36448598
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2260,4,60,731,263,2007,22.81368821
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,1860,4,40,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2130,4,40,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2260,6,60,,,2010,
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.225,1.0125,2400,2,130,,,2007,
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.225,1.0125,2530,2,130,,,2007,
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.375,1.0875,2660,4,130,731,263,2007,49.42965779
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.375,1.0875,2930,4,130,731,263,2007,49.42965779
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3060,4,130,731,263,2007,49.42965779
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.225,1.0125,3200,4,130,731,263,2007,49.42965779
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3200,4,130,731,263,2007,49.42965779
+Intel,Xeon,Bloomfield,0.045,0.035,0.8,1.375,1.0875,3330,4,130,731,263,2007,49.42965779
+Intel,Xeon,Westmere EP,0.032,0.018,0.8,1.375,1.0875,3200,6,130,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.8,1.375,1.0875,3330,6,130,,,2010,
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,3200,4,130,731,263,2007,49.42965779
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,3330,4,130,731,263,2007,49.42965779
+Intel,Xeon,Kentsfield,0.065,0.035,0.85,1.5,1.175,2130,4,105,582,286,2005,36.71328671
+Intel,Xeon,Kentsfield,0.065,0.035,0.85,1.5,1.175,2400,4,105,582,286,2005,36.71328671
+Intel,Xeon,Kentsfield,0.065,0.035,1.1,1.372,1.236,2660,4,95,582,286,2005,33.21678322
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2500,4,95,456,164,2007,57.92682927
+Intel,Xeon,Yorkfield,0.045,0.035,,,,2500,4,80,456,164,2007,48.7804878
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2660,4,95,456,164,2007,57.92682927
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2660,4,95,820,214,2007,44.39252336
+Intel,Xeon,Yorkfield,0.045,0.035,,,,2660,4,80,820,214,2007,37.38317757
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,2830,4,95,820,214,2007,44.39252336
+Intel,Xeon,Yorkfield,0.045,0.035,,,,2830,4,80,820,214,2007,37.38317757
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,3000,4,95,820,214,2007,44.39252336
+Intel,Xeon,Yorkfield,0.045,0.035,0.85,1.3625,1.10625,3160,4,95,820,214,2007,44.39252336
+Intel,Xeon,Lynnfield,0.045,0.035,0.7,1.4,1.05,2400,4,95,774,296,2007,32.09459459
+Intel,Xeon,Lynnfield,0.045,0.035,0.65,1.4,1.025,2530,4,95,774,296,2007,32.09459459
+Intel,Xeon,Lynnfield,0.045,0.035,0.7,1.4,1.05,2667,4,95,774,296,2007,32.09459459
+Intel,Xeon,Lynnfield,0.045,0.035,0.65,1.4,1.025,2800,4,95,774,296,2007,32.09459459
+Intel,Xeon,Lynnfield,0.045,0.035,0.65,1.4,1.025,2930,4,95,774,296,2007,32.09459459
+Intel,Xeon,Lynnfield,0.045,0.035,0.65,1.4,1.025,3060,4,95,774,296,2007,32.09459459
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.35,1.1,3330,2,80,410,107,2007,74.76635514
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.35,1.1,3500,2,80,410,107,2007,74.76635514
+Intel,Xeon,Wolfdale,0.045,0.035,0.85,1.35,1.1,3400,2,80,410,107,2007,74.76635514
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,2660,4,120,582,286,2005,41.95804196
+Intel,Xeon,Clovertown,0.065,0.035,1,1.5,1.25,3000,4,150,582,286,2005,52.44755245
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3000,4,120,820,214,2007,56.07476636
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3160,4,120,820,214,2007,56.07476636
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3330,4,120,820,214,2007,56.07476636
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3000,4,120,820,214,2007,56.07476636
+Intel,Xeon,Harpertown,0.045,0.035,0.85,1.35,1.1,3200,4,150,820,214,2007,70.09345794
+Intel,Xeon,Nehalem-EP,0.045,0.035,0.75,1.35,1.05,2670,4,95,731,263,2007,36.121673
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2800,4,95,731,263,2007,36.121673
+Intel,Xeon,Nehalem EP,0.045,0.035,0.75,1.35,1.05,2930,4,95,731,263,2007,36.121673
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2660,6,95,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2800,6,95,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,3060,4,95,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,2930,6,95,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,3460,4,130,,,2010,
+Intel,Xeon,Westmere EP,0.032,0.018,0.75,1.35,1.05,3330,6,130,,,2010,
+MIPS,R10000,T5,0.35,0.35,3.3,3.3,3.3,180,1,,6.8,298,1995,0
+MIPS,R10000,T5,0.35,0.35,3.3,3.3,3.3,195,1,,6.8,298,1995,0
+MIPS,R10000,T5,0.35,0.35,3.3,3.3,3.3,196,1,,6.8,298,1995,0
+MIPS,R10000,T5,0.35,0.35,3.3,3.3,3.3,200,1,,6.8,298,1995,0
+MIPS,R10000,T5,0.35,0.35,3.3,3.3,3.3,250,1,,6.8,298,1995,0
+MIPS,R2000,,2,2,5,5,5,16,1,3,0.11,80,1986,3.75
+MIPS,R3000,,1.2,1.2,5,5,5,40,1,4,0.12,56,1988,7.142857143
+MIPS,R4000,,0.8,0.8,5,5,5,100,1,15,1.1,213,1991,7.042253521
+MIPS,R4400,,0.35,0.35,3.3,3.3,3.3,240,1,,2.3,108,1995,0
+MIPS,R4400,,0.3,0.3,3.3,3.3,3.3,200,1,,2.3,134,1994,0
+MIPS,R4400,,0.35,0.35,3.3,3.3,3.3,250,1,,2.3,108,1995,0
+MIPS,R4400,,0.6,0.6,3.3,3.3,3.3,100,1,15,2.3,186,1992,8.064516129
+MIPS,R4400,,0.6,0.6,3.3,3.3,3.3,150,1,15,2.3,186,1992,8.064516129
+MIPS,R4400,,0.6,0.6,3.3,3.3,3.3,175,1,15,2.3,186,1992,8.064516129
+MIPS,R4400,,0.6,0.6,3.3,3.3,3.3,200,1,15,2.3,186,1992,8.064516129
+MIPS,R4600,Orion,0.65,0.65,5,5,5,100,1,,,,1993,
+MIPS,R4600,Orion,0.65,0.65,5,5,5,133,1,,,,1993,
+MIPS,R4600,Orion,0.65,0.65,5,5,5,150,1,3,1.9,77,1993,3.896103896
+MIPS,R4600,Orion,0.65,0.65,5,5,5,133,1,,,,1993,
+MIPS,R5000,,0.35,0.35,3.3,3.3,3.3,150,1,,3.6,84,1996,0
+MIPS,R5000,,0.35,0.35,3.3,3.3,3.3,180,1,,3.6,84,1996,0
+MIPS,R5000,,0.35,0.35,3.3,3.3,3.3,200,1,,3.6,84,1996,0
+MIPS,R5000,,0.35,0.35,3.3,3.3,3.3,250,1,,3.6,84,1996,0
+MIPS,R8000,,0.7,0.7,3.3,3.3,3.3,75,1,13,2.6,300,1994,4.333333333
+MIPS,R8000,,0.7,0.7,3.3,3.3,3.3,75,1,13,2.6,300,1994,4.333333333
+MIPS,74K,,,,,,,1200,1,,,1,,0
+MOS,6502,,,,,,,2,1,,0.00351,,,
+MOS,6510,,,,5,5,5,3,1,,,,,
+Motorola,6800,,,,5,5,5,1,1,,0.0068,16,,0
+Motorola,68000,,3.5,3.5,5,5,5,14,1,,0.068,44,1979,0
+Motorola,68010,,3.5,3.5,5,5,5,14,1,1.5,0.068,44,1979,3.409090909
+Motorola,68020,,2.25,2.25,5,5,5,25,1,0.72,0.19,85,1984,0.847058824
+Motorola,68030,,1.3,1.3,5,5,5,50,1,,0.27,102,1987,0
+Motorola,68040,,0.8,0.8,5,5,5,33,1,6,1.2,164,1991,3.658536585
+Motorola,68060,,0.6,0.6,3.3,3.3,3.3,66,1,,2.4,198,1994,0
+Motorola,PowerPC,Max,0.22,0,1.8,1.8,1.8,500,1,6,10.5,83,1999,7.228915663
+Motorola,PowerPC,Apollo 6,0.18,0,1.8,1.8,1.8,733,1,23,33,106,2000,21.69811321
+NexGen,Nx586,,0.5,0.45,4,4,4,93,1,9,3.5,165,1994,5.454545455
+Ross,hyperSPARC,Colorado 2,0.5,0.5,3.3,3.3,3.3,100,1,,1.5,327,1994,0
+Ross,hyperSPARC,Colorado 2,0.5,0.5,3.3,3.3,3.3,125,1,,1.5,327,1994,0
+Ross,hyperSPARC,Colorado 3,0.4,0.4,3.3,3.3,3.3,150,1,,1.5,,1995,
+Ross,hyperSPARC,Colorado 1,0.65,0.65,5,5,5,72,1,,1.5,135,1992,0
+SGI,R12000,,0.25,0.25,2.5,2.5,2.5,270,1,,7.15,229,1998,0
+SGI,R12000,,0.25,0.25,2.5,2.5,2.5,300,1,30,7.15,229,1998,13.10043668
+SGI,R12000,,0.25,0.25,2.5,2.5,2.5,350,1,,7.15,229,1998,0
+SGI,R12000,,0.25,0.25,2.5,2.5,2.5,360,1,,7.15,229,1998,0
+SGI,R12000A,,0.18,0,1.8,1.8,1.8,400,1,,,106,2000,0
+SGI,R14000,,0.13,0,,,,500,1,,,,2001,
+SGI,R14000A,,0.13,0,,,,600,1,17,,,2001,
+Sun,microSPARC I,Tsunami,0.8,0.8,5,5,5,50,1,4,0.8,225,1991,1.777777778
+Sun,SuperSPARC I,Viking,0.8,0.8,5,5,5,40,1,,3.1,256,1991,0
+Sun,SuperSPARC I,Viking,0.8,0.8,5,5,5,50,1,,3.1,256,1991,0
+Sun,SuperSPARC I,Viking,0.8,0.8,5,5,5,60,1,14.2,3.1,256,1991,5.546875
+Sun,SuperSPARC II,Voyager,0.8,0.8,3.3,3.3,3.3,75,1,,3.1,299,1991,0
+Sun,SuperSPARC II,Voyager,0.8,0.8,3.3,3.3,3.3,90,1,16,3.1,299,1991,5.351170569
+Sun,UltraSPARC,Spitfire,0.5,0.5,3.3,3.3,3.3,143,1,,5.2,315,1995,0
+Sun,UltraSPARC,Spitfire,0.5,0.5,3.3,3.3,3.3,167,1,,5.2,315,1995,0
+Sun,UltraSPARC,Spitfire,0.5,0.5,3.3,3.3,3.3,200,1,,5.2,315,1995,0
+Sun,UltraSPARC,Spitfire,0.5,0.5,3.3,3.3,3.3,248,1,,5.2,315,1995,0
+Sun,UltraSPARC,Spitfire,0.5,0.5,3.3,3.3,3.3,296,1,,5.2,315,1995,0
+Sun,UltraSPARC II,Blackbird,0.35,0.35,2.5,2.6,2.55,250,1,25,5.4,149,1997,16.77852349
+Sun,UltraSPARC II,Blackbird,0.35,0.35,2.5,2.6,2.55,296,1,25,5.4,149,1997,16.77852349
+Sun,UltraSPARC II,Blackbird,0.35,0.35,2.5,2.6,2.55,300,1,25,5.4,149,1997,16.77852349
+Sun,UltraSPARC II,Blackbird,0.35,0.35,2.5,2.6,2.55,336,1,25,5.4,149,1997,16.77852349
+Sun,UltraSPARC II,Sapphire-Black,0.25,0.25,1.9,1.9,1.9,360,1,21,5.4,126,1999,16.66666667
+Sun,UltraSPARC II,Sapphire-Black,0.25,0.25,1.9,1.9,1.9,400,1,21,5.4,126,1999,16.66666667
+Sun,UltraSPARC II,Sapphire-Black,0.25,0.25,1.9,1.9,1.9,450,1,21,5.4,126,1999,16.66666667
+Sun,UltraSPARC II,Sapphire-Black,0.25,0.25,1.9,1.9,1.9,480,1,21,5.4,126,1999,16.66666667
+Sun,UltraSPARC IIe,Hummingbird,0.18,0.15,1.5,1.7,1.6,500,1,13,,,2000,
+Sun,UltraSPARC IIi,Sabre,0.35,0.35,1.9,1.9,1.9,270,1,21,5.4,156,1997,13.46153846
+Sun,UltraSPARC IIi,Sabre,0.35,0.35,1.9,1.9,1.9,300,1,21,5.4,156,1997,13.46153846
+Sun,UltraSPARC IIi,Sabre,0.35,0.35,1.9,1.9,1.9,333,1,21,5.4,156,1997,13.46153846
+Sun,UltraSPARC IIi,Sapphire-Red,0.25,0.25,1.9,1.9,1.9,360,1,21,5.4,,1999,
+Sun,UltraSPARC IIi,Sapphire-Red,0.25,0.25,1.9,1.9,1.9,400,1,21,5.4,,1999,
+Sun,UltraSPARC IIi,Sapphire-Red,0.25,0.25,1.9,1.9,1.9,440,1,21,5.4,,1999,
+Sun,UltraSPARC IIi,Phantom,0.18,0,1.7,1.7,1.7,550,1,17.6,,,0,
+Sun,UltraSPARC III,Cheetah,0.18,0,1.6,1.6,1.6,600,1,53,29,330,0,16.06060606
+Sun,UltraSPARC IIi,Phantom,0.18,0,1.7,1.7,1.7,650,1,17.6,,,0,
+Sun,UltraSPARC III,Cheetah,0.13,0,1.6,1.6,1.6,750,1,,29,210,2001,0
+Sun,UltraSPARC III,Cheetah,0.13,0,1.7,1.7,1.7,900,1,,29,210,2001,0
+Sun,UltraSPARC III Cu,Cheetah+,0.13,0,1.6,1.6,1.6,1015,1,80,29,232,0,34.48275862
+Sun,UltraSPARC III Cu,Cheetah+,0.13,0,1.6,1.6,1.6,1050,1,80,29,232,0,34.48275862
+Sun,UltraSPARC III Cu,Cheetah+,0.13,0,1.6,1.6,1.6,1200,1,80,29,232,0,34.48275862
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1002,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1062,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1280,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1336,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1503,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC IIIi,Jalepeno,0.13,0,1.3,1.3,1.3,1600,1,52,87.5,206,0,25.24271845
+Sun,UltraSPARC T1,Niagara,0.09,0.053,1.1,1.1,1.1,1400,8,72,279,378,2005,19.04761905
+Sun,UltraSPARC T2,Niagara 2,0.065,0.035,1.1,1.1,1.1,1400,8,84,503,342,2007,24.56140351
+Zilog,Z80,,,,5,5,5,2.5,1,0.8,0.0085,18,,4.444444444
+Intel,Atom,Pineview,0.045,0.035,0.8,1.175,0.9875,1800,2,13,,,2007,
+WDC,WDC 65C02,,,,1.8,5.25,3.525,,1,,,,,
+WDC,WDC 65816,,,,1.8,5,3.4,,1,,,,,
+Centaur,WinChip,,,,3.45,3.6,3.525,180,1,9.4,,,,
+Centaur,WinChip,,,,3.45,3.6,3.525,200,1,10.4,,,,
+Centaur,WinChip,,,,3.45,3.6,3.525,225,1,12.3,,,,
+Centaur,WinChip,,,,3.45,3.6,3.525,240,1,13.1,,,,
+Zilog,Z8000,,,,,,,,1,,,,,
+Zilog,Z80000,,,,,,,,1,,,,,
+AMD,Am29000,,,,,,,,1,,,,,
+AMD,Am29030,,,,,,,,1,,,,,
+AMD,Am29035,,,,,,,,1,,,,,
+AMD,Am29040,,,,,,,,1,,,,,
+AMD,Am29050,,,,,,,,1,,,,,
+Intel,80186,,,,,,,,1,,,,,
+Intel,iAPX432,,,,,,,,1,,,,,
+Intel,i860,,,,,,,,1,,,,,
+Intel,i960,,,,,,,,1,,,,,
+Motorola,88000,,,,,,,,1,,,,,
+DEC,StrongARM,,,,,,,,1,,,,,
+DEC,StrongARM,,,,,,,,1,,,,,
+DEC,StrongARM,,,,,,,,1,,,,,
+DEC,StrongARM,,,,,,,,1,,,,,
+MIPS,7000,,,,,,,,1,,,,,
+MIPS,R4300,,,,,,,,1,,,,,
+MIPS,3520,,,,,,,,1,,,,,
+MIPS,5900,,,,,,,,1,,,,,
+HP,PA8800,,,,,,,,1,,,,,
+HP,PA8900,,,,,,,,1,,,,,
+Intel,Xeon,Haswell,,,,,,3500,4,80,1400,160,,50
+Intel,Xeon,,,,0.65,1.3,0.975,2000,8,95,1400,160,,59.375
+Intel,Xeon,Irwindale,,,1.25,1.388,1.319,2800,1,110,169,135,,81.48148148
+Intel,Xeon,Irwindale,,,1.05,1.2,1.125,3000,1,55,169,135,,40.74074074
+Intel,Xeon,Irwindale,,,1.25,1.388,1.319,3200,1,110,169,135,,81.48148148
+Intel,Xeon,Nocona,,,1.2875,1.4,1.34375,3330,1,110,125,112,,98.21428571
+Intel,Xeon,Irwindale,,,1.25,1.388,1.319,3400,1,110,169,135,,81.48148148
+Intel,Xeon,Nocona,,,1.2875,1.4,1.34375,3500,1,110,125,112,,98.21428571
+Intel,Xeon,Potomac,,,1.25,1.4,1.325,2830,1,129,,,,
+Intel,Xeon,Potomac,,,1.25,1.4,1.325,3000,1,129,,,,
+Intel,Xeon,Cranford,,,1.2875,1.4,1.34375,3160,1,110,125,112,,98.21428571
+Intel,Xeon,Potomac,,,1.25,1.4,1.325,3330,1,129,,,,
+Intel,Celeron,Tualatin,,,,1.5,1.5,1200,1,32.1,44,80,,40.125
+Intel,Celeron,Northwood,,,1.315,1.525,1.42,2400,1,59.8,55,131,,45.64885496
+Intel,Celeron,Coppermine,,,,,,600,1,15.8,28,90,,17.55555556
+Intel,Celeron,Coppermine,,,,,,633,1,16.5,28,90,,18.33333333
+Intel,Celeron,Coppermine,,,,,,667,1,17.5,28,90,,19.44444444
+Intel,Celeron Mobile,Coppermine,,,,1.6,1.6,700,1,15,28,90,,16.66666667
+Intel,Celeron,Coppermine,,,,,,766,1,20,28,90,,22.22222222
+Intel,Celeron Mobile,Coppermine,,,,1.7,1.7,800,1,22,28,90,,24.44444444
+Intel,Celeron,Coppermine,,,,1.75,1.75,900,1,26.7,28,90,,29.66666667
+Intel,Celeron,Coppermine,,,,1.75,1.75,950,1,28,28,90,,31.11111111
+Intel,Core,Yonah,,,0.7625,1.2125,0.9875,1500,2,15,151,90,,16.66666667
+Intel,Core,Yonah,,,0.7625,1.2125,0.9875,1830,2,15,151,90,,16.66666667
+Intel,Core,Yonah,,,0.7625,1.3,1.03125,1600,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,0.7625,1.3,1.03125,1730,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,1660,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,0.7625,1.3,1.03125,1660,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,1830,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,2160,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,2330,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,0.8,1.1,0.95,1060,2,9,151,90,,10
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,1660,1,27,151,90,,30
+Intel,Core,Yonah,,,0.95,1.262,1.106,1860,1,31,151,90,,34.44444444
+Intel,Core,Yonah,,,1.1625,1.3,1.23125,1830,1,27,151,90,,30
+Intel,Core,Yonah,,,0.85,1.1,0.975,1060,1,6,151,90,,6.666666667
+Intel,Core,Yonah,,,0.85,1.1,0.975,1200,1,6,151,90,,6.666666667
+Intel,Core2,Merom,,,1.075,1.175,1.125,1600,2,34,291,143,,23.77622378
+Intel,Core2,Merom,,,1.0375,1.3,1.16875,1660,2,34,291,143,,23.77622378
+Intel,Core2,Merom,,,1.0375,1.3,1.16875,1830,2,34,291,143,,23.77622378
+Intel,Core2,Conroe,,,0.85,1.5,1.175,2930,2,75,291,143,,52.44755245
+Intel,Xeon,Foster,,,,1.75,1.75,2000,1,77.5,,,,
+Intel,Xeon,Prestonia,,,1.353,1.461,1.407,2000,1,58,55,131,,44.27480916
+Intel,Xeon,Prestonia,,,1.17,1.265,1.2175,2400,1,40,55,131,,30.53435115
+Intel,Xeon,Prestonia,,,,1.5,1.5,2660,1,72,55,131,,54.96183206
+Intel,Xeon,Prestonia,,,,1.5,1.5,2800,1,74,55,131,,56.48854962
+Intel,Xeon,Prestonia,,,1.352,1.467,1.4095,3060,1,85,55,131,,64.88549618
+Intel,Xeon,Prestonia,,,,1.525,1.525,3200,1,92,,,,
+Intel,Xeon,Prestonia,,,1.187,1.274,1.2305,1600,1,30,55,131,,22.90076336
+Intel,Xeon,Foster,,,,1.75,1.75,1600,1,72,,,,
+Intel,Xeon,Gallatin,,,,1.475,1.475,2000,1,57,82,555,,10.27027027
+Intel,Xeon,Gallatin,,,,1.475,1.475,2500,1,66,,,,
+Intel,Xeon,Gallatin,,,,1.475,1.475,2800,1,72,82,555,,12.97297297
+Intel,Xeon,Gallatin,,,,1.5,1.5,3000,1,85,,,,
+Intel,Pentium 4,Northwood,,,1.355,1.435,1.395,2260,1,58,55,131,,44.27480916
+Intel,Pentium 4,Northwood,,,1.345,1.43,1.3875,2530,1,61.5,55,131,,46.94656489
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3400,1,84,169,135,,62.22222222
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3600,1,115,169,135,,85.18518519
+Intel,Pentium 4,Prescott,,,1.2,1.4,1.3,3800,1,115,169,135,,85.18518519
+Intel,Pentium 4,Northwood,,,,,,3400,1,102.9,,,,
+Intel,Pentium 4,Northwood,,,1.287,1.4,1.3435,3460,1,110.7,,,,
+Intel,Pentium 4,Northwood,,,,,,3000,1,81.9,55,131,,62.51908397
+Intel,Pentium 4,Prescott,,,,,,4000,1,,169,135,,0
+Intel,Pentium D,Smithfield,,,1.2,1.4,1.3,3000,2,130,230,206,,63.10679612
+Intel,Pentium D,Presler,,,1.2,1.3375,1.26875,2800,2,95,376,162,,58.64197531
+Intel,Pentium II,Katmai,,,,2,2,500,1,28,,,,
+Intel,Pentium II,Katmai,,,,2,2,533,1,29.7,,,,
+Intel,Pentium II,Katmai,,,,2,2,550,1,30.8,,,,
+Intel,Pentium II,Katmai,,,,2.05,2.05,600,1,34.5,,,,
+Intel,Xeon,Tanner,,,,2,2,500,1,36,,,,
+Intel,Xeon,Tanner,,,,2,2,550,1,34,,,,
+Intel,Xeon,Cascades,,,5,12,8.5,700,1,29.6,,,,
+Intel,Xeon,Cascades,,,,,,900,1,,,,,
+Intel,Xeon,Cascades,,,5,12,8.5,933,1,29.6,,,,
+Intel,Celeron D,Cedarmill,,,1.25,1.325,1.2875,3060,1,86,188,81,,106.1728395
+Intel,Celeron D,Cedarmill,,,1.25,1.325,1.2875,3600,1,65,188,81,,80.24691358
+Intel,Celeron M,Merom,,,0.95,1.3,1.125,1600,1,30,291,143,,20.97902098
+Intel,Celeron M,Yonah,,,0.85,1.1,0.975,1200,1,5.5,151,90,,6.111111111
+Intel,Pentium D,Presler,,,1.2,1.3375,1.26875,3200,2,95,376,162,,58.64197531
+Intel,Core,Yonah,,,0.85,1.1,0.975,1330,1,5.5,151,90,,6.111111111
+Intel,Core2,Kentsfield,,,0.85,1.5,1.175,2660,4,130,582,286,,45.45454545
+Intel,Core,Yonah,,,0.95,1.262,1.106,1860,2,31,151,90,,34.44444444
+Intel,Core,Yonah,,,0.95,1.262,1.106,2000,2,31,151,90,,34.44444444
+Intel,Core2,Conroe,,,0.85,1.5,1.175,2000,2,65,167,111,,58.55855856
+Intel,Core2,Merom,,,,,,1730,2,34,291,143,,23.77622378
+Intel,Core2,Kentsfield,,,0.85,1.5,1.175,2930,4,130,582,286,,45.45454545
+Intel,Core2,Conroe,,,0.85,1.5,1.175,2200,2,65,167,111,,58.55855856
+Intel,Core2,Merom,,,1.075,1.25,1.1625,1500,2,35,291,143,,24.47552448
+Intel,Core2,Merom,,,1.075,1.25,1.1625,1660,2,35,291,143,,24.47552448
+Intel,Core2,Merom,,,1.1,1.375,1.2375,2600,2,44,291,143,,30.76923077
+Intel,Core2,Kentsfield,,,0.85,1.5,1.175,3000,4,130,582,286,,45.45454545
+Intel,Core2,Merom,,,1.075,1.25,1.1625,1600,2,35,291,143,,24.47552448
+Intel,Celeron M,Merom,,,0.85,1.1,0.975,930,1,5.5,291,143,,3.846153846
+Intel,Core2,Conroe,,,0.85,1.5,1.175,2400,2,65,167,111,,58.55855856
+Intel,Core2,Merom,,,1.075,1.25,1.1625,1830,2,35,291,143,,24.47552448
+Intel,Core2,Merom,,,1.075,1.25,1.1625,1400,2,35,291,143,,24.47552448
+Intel,Core2,Merom,,,1.075,1.175,1.125,2000,2,35,291,143,,24.47552448
+Intel,Core2,Conroe,,,0.85,1.5,1.175,2600,2,65,167,111,,58.55855856
+Intel,Celeron,Conroe,0.065,0.035,,,,1860,1,65,105,77,2005,84.41558442
+Intel,Core2,Wolfdale,,,0.85,1.3625,1.10625,2530,2,65,228,82,,79.26829268
+Intel,Core2,Wolfdale,,,0.85,1.3625,1.10625,2660,2,65,228,82,,79.26829268
+Intel,Pentium,Wolfdale,,,0.85,1.5,1.175,2200,2,65,,,,
+Intel,Core2,Wolfdale,,,0.85,1.3625,1.10625,2930,2,65,228,82,,79.26829268
+Intel,Core2,Yorkfield,,,0.85,1.3625,1.10625,2330,4,95,456,164,,57.92682927
+Intel,Core2,Penryn,,,,,,2400,2,25,410,107,,23.36448598
+Intel,Core2,Penryn,,,1.05,1.15,1.1,2130,2,25,410,107,,23.36448598
+Intel,Core2,Penryn,,,1.062,1.15,1.106,2000,2,25,410,107,,23.36448598
+Intel,Core2,Penryn,,,1.05,1.175,1.1125,2260,4,45,820,214,,21.02803738
+Intel,Core2,Penryn,,,1,1.25,1.125,2000,2,25,410,107,,23.36448598
+Intel,Celeron,Penryn,,,,,,1300,1,10,410,107,,9.345794393
+Intel,Core,Yonah,,,,,,1730,1,31,151,90,,34.44444444
+Intel,Core2,Penryn,,,1.05,1.15,1.1,2530,2,25,410,107,,23.36448598
+Intel,Core2,Yorkfield,,,0.85,1.3625,1.10625,2660,4,95,456,164,,57.92682927
+Intel,Core2,Yorkfield,,,0.85,1.3625,1.10625,2500,4,95,456,164,,57.92682927
+Intel,Core2,Penryn,,,1.05,1.175,1.1125,2000,4,45,410,107,,42.05607477
+Intel,Celeron,Penryn,,,1,1.25,1.125,1800,2,35,410,107,,32.71028037
+Intel,Core2,Yorkfield,,,0.85,1.3625,1.10625,2330,4,65,456,164,,39.63414634
+Intel,Core2,Wolfdale,,,0.85,1.3625,1.10625,3060,2,65,228,82,,79.26829268
+Intel,Core2,Penryn,,,1.05,1.15,1.1,1860,1,17,410,107,,15.88785047
+Intel,Core2,Penryn,,,,,,2260,2,25,410,107,,23.36448598
+Intel,Core2,Penryn,,,,,,2200,2,35,410,107,,32.71028037
+Intel,Core2,Yorkfield,,,0.85,1.3625,1.10625,2660,4,65,456,164,,39.63414634
+Intel,Core2,Penryn,,,1.05,1.15,1.1,1300,1,5.5,410,107,,5.140186916
+Intel,Xeon,Cascades,,,,,,600,1,,,,,
+Intel,Core2,Penryn,,,,,,2260,2,25,410,107,,23.36448598
+Intel,Core2,Penryn,,,,,,1300,2,10,410,107,,9.345794393
+Intel,Core2,Penryn,,,1,1.25,1.125,2100,2,35,410,107,,32.71028037
+Intel,Pentium,Penryn,,,,,,1300,2,10,410,107,,9.345794393
+Intel,Pentium III Mobile,,,,1.4,1.15,1.275,1060,1,21,,,,
+Intel,Core i7,Sandy Bridge,,,,,,2200,4,45,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2600,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2800,4,95,,,,
+Intel,Core i5,Sandy Bridge,,,,,,3300,4,95,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2200,2,35,,,,
+Intel,Core i5,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Atom,Stellarton,,,,,,1000,1,7,,,,
+Intel,Atom,Stellarton,,,,,,1000,1,7,,,,
+Intel,Atom,Stellarton,,,,,,1300,1,7,,,,
+Intel,Atom,Stellarton,,,,,,1300,1,7,,,,
+Intel,Core i3,Sandy Bridge,,,,,,1500,2,17,,,,
+Intel,Atom,Lincroft,,,1.1125,1.5,1.30625,1500,1,3,,,,
+Intel,Atom,Lincroft,,,1.1125,1.5,1.30625,1200,1,3,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1200,2,15,,,,
+Intel,Core i7,Sandy Bridge,,,,,,3500,4,95,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,2800,4,130,,,,
+Intel,Xeon,Sandy Bridge EP,,,0.6,1.35,0.975,3000,4,130,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3000,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2700,4,65,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3400,2,55,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3300,2,55,,,,
+Intel,Core i3,Ivy Bridge,,,,,,2800,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2600,2,35,,,,
+Intel,Core i3,Ivy Bridge,,,,,,2900,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1400,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1700,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1500,2,17,,,,
+Intel,Pentium,Sandy Bridge EN,,,0.6,1.35,0.975,2600,2,80,,,,
+Intel,Pentium,Sandy Bridge EN,,,0.6,1.35,0.975,2800,2,80,,,,
+Intel,Xeon,Sandy Bridge EN,,,0.6,1.35,0.975,2800,4,80,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2900,4,65,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3200,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3100,4,69,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2700,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2900,2,65,,,,
+Intel,Pentium,Sandy Bridge,,,,,,1600,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1500,2,17,,,,
+Intel,Atom,Cedarview,,,0.91,1.21,1.06,2000,2,10,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1900,1,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2500,2,35,,,,
+Intel,Pentium,Sandy Bridge,,,,,,2400,2,35,,,,
+Intel,Atom,Cloverview,,,,,,,2,,,,,
+Intel,Atom,Cloverview,,,,,,,2,,,,,
+Intel,Atom,Cloverview,,,,,,1800,2,,,,,
+Intel,Core i3,Sandy Bridge,,,,,,1400,2,17,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2800,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2700,4,45,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2200,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,3200,2,55,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3200,2,55,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2500,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2900,2,55,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2800,2,55,,,,
+Intel,Celeron,Ivy Bridge,,,,,,2600,2,55,,,,
+Intel,Celeron,Ivy Bridge,,,,,,2300,2,35,,,,
+Intel,Core i7 Extreme,Ivy Bridge,,,,,,3000,4,55,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2700,2,35,,,,
+Intel,Celeron,Sandy Bridge,,,,,,1800,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i7,Ivy Bridge,,,,,,3000,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2900,2,35,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2700,2,35,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2100,2,17,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1900,2,17,,,,
+Intel,Atom,Briarwood,,,,,,2000,2,14.1,,,,
+Intel,Atom,Briarwood,,,,,,1600,2,13.1,,,,
+Intel,Atom,Briarwood,,,,,,1600,2,11.7,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2400,4,45,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2400,4,45,,,,
+Intel,Core i3,Ivy Bridge,,,,,,2500,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2200,4,35,,,,
+Intel,Itanium,Poulson,,,,,,2530,8,170,,,,
+Intel,Itanium,Poulson,,,,,,2400,4,170,,,,
+Intel,Itanium,Poulson,,,,,,2130,8,170,,,,
+Intel,Itanium,Poulson,,,,,,1730,4,130,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1053,60,225,,,,
+Intel,Celeron,Ivy Bridge,,,,,,2100,2,35,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i3,Ivy Bridge,,,,,,1400,2,13,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1500,2,13,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1500,2,13,,,,
+Intel,Core i7,Ivy Bridge,,,,,,1500,2,13,,,,
+Intel,Pentium,Ivy Bridge,,,,,,1100,2,10,,,,
+Intel,Core i7,Ivy Bridge,,,,,,2000,2,17,,,,
+Intel,Core i5,Ivy Bridge,,,,,,1800,2,17,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2600,2,35,,,,
+Intel,Core i3,Ivy Bridge,,,,,,1900,2,17,,,,
+Intel,Core i3,Ivy Bridge,,,,,,2600,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2500,2,35,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1800,2,35,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1500,2,17,,,,
+Intel,Core i3,Sandy Bridge,,,,,,1500,2,17,,,,
+Intel,Celeron,Sandy Bridge,,,,,,2000,1,35,,,,
+Intel,Core i3,Sandy Bridge,,,,,,2300,2,35,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3500,2,55,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3000,2,35,,,,
+Intel,Core i3,Ivy Bridge,,,,,,3400,2,55,,,,
+Intel,Pentium,Ivy Bridge,,,,,,3300,2,55,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2600,2,35,,,,
+Intel,Pentium,Ivy Bridge,,,,,,3000,2,55,,,,
+Intel,Core i5,Haswell,,,,,,2800,2,47,,,,
+Intel,Core i5,Haswell,,,,,,1300,2,15,,,,
+Intel,Core i5,Haswell,,,,,,1400,2,15,,,,
+Intel,Core i5,Haswell,,,,,,3000,4,84,,,,
+Intel,Core i5,Haswell,,,,,,2700,4,65,,,,
+Intel,Core i5,Haswell,,,,,,3100,4,84,,,,
+Intel,Core i5,Haswell,,,,,,2800,4,65,,,,
+Intel,Core i5,Haswell,,,,,,3200,4,84,,,,
+Intel,Core i5,Haswell,,,,,,2900,2,35,,,,
+Intel,Core i5,Haswell,,,,,,3400,4,84,,,,
+Intel,Core i5,Haswell,,,,,,3400,4,84,,,,
+Intel,Core i5,Haswell,,,,,,3100,4,65,,,,
+Intel,Core i5,Haswell,,,,,,2300,4,45,,,,
+Intel,Xeon,Haswell,,,,,,1100,2,13,,,,
+Intel,Xeon,Haswell,,,,,,3100,4,80,,,,
+Intel,Xeon,Haswell,,,,,,1800,4,25,,,,
+Intel,Xeon,Haswell,,,,,,3300,4,80,,,,
+Intel,Xeon,Haswell,,,,,,3400,4,80,,,,
+Intel,Xeon,Haswell,,,,,,3600,4,82,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1000,2,10,,,,
+Intel,Core i3,Haswell,,,,,,2400,2,37,,,,
+Intel,Core i3,Haswell,,,,,,1700,2,15,,,,
+Intel,Core i3,Haswell,,,,,,1800,2,15,,,,
+Intel,Core i7,Haswell,,,,,,1500,2,15,,,,
+Intel,Core i7,Haswell,,,,,,2400,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2400,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2200,4,37,,,,
+Intel,Core i7,Haswell,,,,,,2200,4,37,,,,
+Intel,Core i7,Haswell,,,,,,2000,4,35,,,,
+Intel,Core i7,Haswell,,,,,,3400,4,84,,,,
+Intel,Core i7,Haswell,,,,,,3500,4,84,,,,
+Intel,Core i7,Haswell,,,,,,2500,4,45,,,,
+Intel,Core i7,Haswell,,,,,,2700,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2800,4,47,,,,
+Intel,Core i7 Extreme,Haswell,,,,,,3000,4,57,,,,
+Intel,Pentium,Ivy Bridge,,,,,,1900,2,17,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1600,2,17,,,,
+Intel,Celeron,Ivy Bridge,,,,,,1900,2,35,,,,
+Intel,Atom,Cloverview,,,,,,,2,,,,,
+Intel,Core i5,Haswell,,,,,,1600,2,15,,,,
+Intel,Core i7,Haswell,,,,,,1800,2,15,,,,
+Intel,Xeon,Haswell,,,,,,3400,4,84,,,,
+Intel,Xeon,Haswell,,,,,,2500,4,45,,,,
+Intel,Xeon,Haswell,,,,,,3600,4,84,,,,
+Intel,Xeon,Haswell,,,,,,3100,4,65,,,,
+Intel,Celeron,Haswell,,,,,,1400,2,15,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1100,57,300,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1100,57,300,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1238,61,300,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1238,61,300,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1053,60,245,,,,
+Intel,Core i5,Haswell,,,,,,1400,2,11.5,,,,
+Intel,Core i3,Haswell,,,,,,1300,2,11.5,,,,
+Intel,Core i3,Haswell,,,,,,2000,2,28,,,,
+Intel,Core i5,Haswell,,,,,,2400,2,28,,,,
+Intel,Core i5,Haswell,,,,,,2600,2,28,,,,
+Intel,Core i7,Haswell,,,,,,2800,2,28,,,,
+Intel,Core i7,Crystal Well,,,,,,2400,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2300,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2000,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2600,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2400,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,1800,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,1600,4,47,,,,
+Intel,Core i5,Ivy Bridge,,,,,,3100,4,77,,,,
+Intel,Core i5,Ivy Bridge,,,,,,2800,4,65,,,,
+Intel,Celeron,Ivy Bridge,,,,,,2800,2,55,,,,
+Intel,Celeron,Ivy Bridge,,,,,,2400,2,35,,,,
+Intel,Core i3,Haswell,,,,,,2500,2,37,,,,
+Intel,Core i5,Haswell,,,,,,2600,2,37,,,,
+Intel,Core i5,Haswell,,,,,,2500,2,37,,,,
+Intel,Core i7,Haswell,,,,,,2900,2,37,,,,
+Intel,Pentium,Bay Trail,,,,,,2410,4,10,,,,
+Intel,Celeron,Bay Trail,,,,,,2000,4,10,,,,
+Intel,Celeron,Bay Trail,,,,,,2410,2,10,,,,
+Intel,Core i3,Haswell,,,,,,1500,2,11.5,,,,
+Intel,Core i3,Haswell,,,,,,1500,2,11.5,,,,
+Intel,Core i5,Haswell,,,,,,1600,2,11.5,,,,
+Intel,Core i5,Haswell,,,,,,1500,2,11.5,,,,
+Intel,Core i5,Haswell,,,,,,1600,2,11.5,,,,
+Intel,Core i5,Haswell,,,,,,1600,2,11.5,,,,
+Intel,Core i7,Haswell,,,,,,2100,2,15,,,,
+Intel,Core i7,Haswell,,,,,,1700,2,11.5,,,,
+Intel,Pentium,Haswell,,,,,,1700,2,15,,,,
+Intel,Pentium,Haswell,,,,,,1200,2,11.5,,,,
+Intel,Core i5,Crystal Well,,,,,,2700,4,65,,,,
+Intel,Core i5,Crystal Well,,,,,,3000,4,65,,,,
+Intel,Core i7,Crystal Well,,,,,,3200,4,65,,,,
+Intel,Core i5,Haswell,,,,,,2800,2,37,,,,
+Intel,Pentium,Bay Trail,,,,,,2000,4,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,1600,4,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,2000,2,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,1460,2,4.3,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1460,4,,,,,
+Intel,Celeron,Haswell,,,,,,2000,2,37,,,,
+Intel,Pentium,Haswell,,,,,,2300,2,37,,,,
+Intel,Core i3,Haswell,,,,,,3400,2,54,,,,
+Intel,Core i3,Haswell,,,,,,2900,2,35,,,,
+Intel,Core i7,Haswell,,,,,,3500,4,84,,,,
+Intel,Core i3,Haswell,,,,,,3000,2,35,,,,
+Intel,Core i3,Haswell,,,,,,3600,2,54,,,,
+Intel,Pentium,Haswell,,,,,,3000,2,53,,,,
+Intel,Pentium,Haswell,,,,,,2600,2,35,,,,
+Intel,Pentium,Haswell,,,,,,2700,2,35,,,,
+Intel,Pentium,Haswell,,,,,,3300,2,53,,,,
+Intel,Atom,Avoton,,,,,,1700,2,6,,,,
+Intel,Atom,Avoton,,,,,,1700,4,9,,,,
+Intel,Atom,Avoton,,,,,,2400,4,14,,,,
+Intel,Atom,Avoton,,,,,,1700,8,12,,,,
+Intel,Atom,Avoton,,,,,,2400,8,20,,,,
+Intel,Atom,Bay Trail,,,,,,1500,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Pentium,Ivy Bridge,,,,,,2100,2,35,,,,
+Intel,Xeon,Gladden,,,,,,3000,4,55,,,,
+Intel,Celeron,Bay Trail,,,,,,2410,2,10,,,,
+Intel,Pentium,Bay Trail,,,,,,2410,4,10,,,,
+Intel,Celeron,Haswell,,,,,,1400,2,15,,,,
+Intel,Celeron,Haswell,,,,,,1100,2,11.5,,,,
+Intel,Celeron,Haswell,,,,,,1600,2,15,,,,
+Intel,Pentium,Haswell,,,,,,1700,2,15,,,,
+Intel,Pentium,Haswell,,,,,,1200,2,11.5,,,,
+Intel,Celeron,Haswell,,,,,,2800,2,53,,,,
+Intel,Celeron,Haswell,,,,,,2400,2,35,,,,
+Intel,Pentium,Bay Trail,,,,,,2166,4,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,1600,2,4.5,,,,
+Intel,Celeron,Bay Trail,,,,,,1860,2,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,2400,2,7.5,,,,
+Intel,Pentium 4,Northwood,0.13,0.07,,,,2600,1,,,,2002,
+Intel,Pentium 4,Northwood,0.13,0.07,,,,2800,1,,,,2002,
+AMD,A4,,,,,,,3000,,,,,,
+AMD,A10,,,,,,,4100,,,,,,
+AMD,A8,,,,,,,3500,,,,,,
+AMD,A6,,,,,,,3900,,,,,,
+Intel,Xeon,Irwindale,,,1.25,1.388,1.319,3600,1,110,169,135,,81.48148148
+Intel,Xeon,Irwindale,,,1.2875,1.3875,1.3375,3800,1,110,169,135,,81.48148148
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2130,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2260,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2260,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2530,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2530,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2530,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2660,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2660,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2660,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2800,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2800,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2930,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,2930,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3060,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3060,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3060,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3200,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3200,1,73,125,112,,65.17857143
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3200,1,84,125,112,,75
+Intel,Celeron,Prescott,,,1.25,1.4,1.325,3330,1,84,125,112,,75
+Intel,Celeron,Cedarmill,,,1.25,1.325,1.2875,3330,1,86,188,81,,106.1728395
+Intel,Celeron,Cedarmill,,,1.25,1.325,1.2875,3460,1,65,188,81,,80.24691358
+Intel,Celeron,Coppermine,,,,1.75,1.75,1000,1,29,28,90,,32.22222222
+Intel,Celeron,Coppermine,,,,1.75,1.75,1100,1,33,28,90,,36.66666667
+Intel,Celeron,Coppermine,,,,,,700,1,18.3,28,90,,20.33333333
+Intel,Celeron,Coppermine,,,,,,800,1,20.8,28,90,,23.11111111
+Intel,Xeon,Paxville,,,1.2875,1.4125,1.35,2800,2,135,230,206,,65.53398058
+Intel,Celeron,Cedarmill,,,1.25,1.325,1.2875,3060,1,86,188,81,,106.1728395
+Intel,Celeron,Cedarmill,,,1.25,1.325,1.2875,3600,1,65,188,81,,80.24691358
+Intel,Itanium,Madison,,,,,,1000,1,100,410,374,,26.73796791
+Intel,Itanium,Madison,,,,,,1300,1,97,410,374,,25.93582888
+Intel,Itanium,Madison,,,,,,1400,1,91,410,374,,24.3315508
+Intel,Itanium,Madison,,,,,,1500,1,107,410,374,,28.60962567
+Intel,Itanium,Madison,,,,,,1600,1,122,592,432,,28.24074074
+Intel,Itanium,Madison,,,,,,1660,1,122,592,432,,28.24074074
+Intel,Itanium,Madison,,,,,,900,1,90,410,374,,24.06417112
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1400,2,104,1720,596,,17.44966443
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1420,2,104,1720,596,,17.44966443
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Itanium,Montecito,,,1.0875,1.25,1.16875,1600,2,104,1720,596,,17.44966443
+Intel,Pentium,Presler,,,1.2,1.3375,1.26875,3200,2,95,376,162,,58.64197531
+Intel,Itanium,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1600,1,75,1720,596,,12.58389262
+Intel,Itanium,Montvale,,,,,,1420,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1600,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1600,2,104,1720,596,,17.44966443
+Intel,Itanium,Montvale,,,,,,1660,2,104,1720,596,,17.44966443
+Intel,Core i7 Extreme,Bloomfield,,,0.8,1.375,1.0875,3200,4,130,731,263,,49.42965779
+Intel,Core i7 Extreme,Bloomfield,,,0.8,1.375,1.0875,3330,4,130,731,263,,49.42965779
+Intel,Core i7,Sandy Bridge E,,,0.6,1.35,0.975,3300,6,130,,,,
+Intel,Atom,Penwell,,,0.3,1.2,0.75,2000,1,,,,,
+Intel,Atom,Penwell,,,0.3,1.2,0.75,1600,1,,,,,
+Intel,Atom,Merrifield,,,,0,0,21300,2,,,,,
+Intel,Atom,Merrifield,,,,0,0,21300,2,,,,,
+Intel,Atom,Penwell,,,0.3,1.2,0.75,1200,1,,,,,
+Intel,Core i7,Sandy Bridge E,,,0.6,1.35,0.975,3500,6,150,,,,
+Intel,Atom,Centerton,,,,,,2000,2,8.5,,,,
+Intel,Atom,Centerton,,,,,,1600,2,6.1,,,,
+Intel,Atom,Centerton,,,,,,1600,2,8.1,,,,
+Intel,Core i5,Haswell,,,,,,1400,2,15,,,,
+Intel,Core i5,Haswell,,,,,,1500,2,15,,,,
+Intel,Atom,Cloverview,,,,,,1200,2,,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,12,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,15,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2500,15,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2800,15,155,,,,
+Intel,Xeon,Ivy Bridge,,,,,,1900,6,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2000,8,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2200,10,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,12,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2600,12,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,15,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2800,15,155,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,12,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3000,12,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2300,15,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2200,15,105,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2500,15,130,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2800,15,155,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3200,10,155,,,,
+Intel,Xeon,Ivy Bridge,,,,,,3400,6,155,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,1900,8,95,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,1700,10,60,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,2400,10,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3500,6,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2600,8,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,1700,10,70,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2200,10,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3300,8,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2500,10,115,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3000,10,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2400,12,115,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2700,12,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2300,8,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2600,8,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,3300,8,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2200,10,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2400,10,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2400,12,115,,,,
+Intel,Xeon,Ivy Bridge,,,,,,2500,15,130,,,,
+Intel,0,Ivy Bridge EN,,,0.65,1.3,0.975,2800,4,80,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3700,4,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3500,6,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3700,6,130,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,2400,4,80,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,2200,6,80,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,2400,6,60,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2100,6,80,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,2400,6,60,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3500,4,130,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2200,4,95,,,,
+Intel,Xeon,Ivy Bridge EP,,,0.65,1.3,0.975,2600,6,95,,,,
+Intel,Xeon,Ivy Bridge EN,,,0.65,1.3,0.975,1800,4,80,,,,
+Intel,Core i7,Crystal Well,,,,,,2400,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2100,4,47,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,1800,4,80,,,,
+Intel,Xeon,Ivy Bridge EP,,,,,,3400,8,150,,,,
+Intel,Xeon,Haswell,,,,,,2700,4,45,,,,
+Intel,Core i3,Haswell,,,,,,2600,2,37,,,,
+Intel,Core i3,Haswell,,,,,,3500,2,54,,,,
+Intel,Core i3,Haswell,,,,,,3000,2,35,,,,
+Intel,Core i3,Haswell,,,,,,3600,2,54,,,,
+Intel,Core i3,Haswell,,,,,,3100,2,35,,,,
+Intel,Core i3,Haswell,,,,,,3600,2,54,,,,
+Intel,Core i3,Haswell,,,,,,3200,2,35,,,,
+Intel,Core i3,Haswell,,,,,,3800,2,54,,,,
+Intel,Core i7,Ivy Bridge E,,,,,,3600,6,130,,,,
+Intel,Core i7,Ivy Bridge E,,,,,,3400,6,130,,,,
+Intel,Core i7,Ivy Bridge E,,,,,,3700,4,130,,,,
+Intel,0,Ivy Bridge EP,,,,,,3000,4,130,,,,
+Intel,0,Ivy Bridge EP,,,,,,3000,8,130,,,,
+Intel,0,Ivy Bridge EN,,,0.65,1.3,0.975,2600,2,80,,,,
+Intel,Core i5,Haswell,,,,,,1900,4,35,,,,
+Intel,Core i5,Haswell,,,,,,2900,2,47,,,,
+Intel,Core i7,Haswell,,,,,,2500,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2500,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2300,4,37,,,,
+Intel,Core i7,Haswell,,,,,,2300,4,37,,,,
+Intel,Core i7,Haswell,,,,,,2800,4,47,,,,
+Intel,Core i7,Haswell,,,,,,2900,4,47,,,,
+Intel,Core i7 Extreme,Haswell,,,,,,3100,4,57,,,,
+Intel,Celeron,Bay Trail,,,,,,2130,2,7.5,,,,
+Intel,0,Ivy Bridge,,,,,,2800,15,155,,,,
+Intel,0,Crystal Well,,,,,,1800,4,47,,,,
+Intel,0,Knights Corner,,,,,,1100,57,300,,,,
+Intel,0,Ivy Bridge EP,,,0.65,1.3,0.975,3300,8,110,,,,
+Intel,Atom,Bay Trail,,,,,,1590,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1460,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1490,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1238,61,270,,,,
+Intel,Core i5,Haswell,,,,,,2000,2,15,,,,
+Intel,Core i5,Haswell,,,,,,2900,2,37,,,,
+Intel,Core i7,Haswell,,,,,,3000,2,37,,,,
+Intel,Core i5,Haswell,,,,,,2700,2,37,,,,
+Intel,Xeon Phi Coprocessors,Knights Corner,,,,,,1238,61,300,,,,
+Intel,Pentium,Haswell,,,,,,3400,2,53,,,,
+Intel,Pentium,Haswell,,,,,,2900,2,35,,,,
+Intel,Pentium,Haswell,,,,,,3300,2,53,,,,
+Intel,Pentium,Haswell,,,,,,2800,2,35,,,,
+Intel,Pentium,Haswell,,,,,,3100,2,53,,,,
+Intel,Pentium,Haswell,,,,,,2700,2,35,,,,
+Intel,Celeron,Haswell,,,,,,2900,2,53,,,,
+Intel,Celeron,Haswell,,,,,,2800,2,53,,,,
+Intel,Celeron,Haswell,,,,,,2500,2,35,,,,
+Intel,Core i7,Haswell,,,,,,3600,4,84,,,,
+Intel,Core i7,Devil's Canyon,,,,,,4000,4,88,,,,
+Intel,Core i7,Haswell,,,,,,2700,4,45,,,,
+Intel,Core i5,Haswell,,,,,,3500,4,84,,,,
+Intel,Core i5,Devil's Canyon,,,,,,3500,4,88,,,,
+Intel,Core i5,Haswell,,,,,,3200,4,65,,,,
+Intel,Core i5,Haswell,,,,,,2500,4,45,,,,
+Intel,Core i7,Haswell,,,,,,2200,4,35,,,,
+Intel,Core i5,Haswell,,,,,,3300,4,84,,,,
+Intel,Core i5,Haswell,,,,,,3200,4,84,,,,
+Intel,Core i5,Haswell,,,,,,2900,4,65,,,,
+Intel,Atom,Bay Trail,,,,,,1490,4,,,,,
+Intel,Xeon,Haswell,,,,,,3700,4,82,,,,
+Intel,Xeon,Haswell,,,,,,3600,4,80,,,,
+Intel,Xeon,Haswell,,,,,,3500,4,80,,,,
+Intel,Xeon,Haswell,,,,,,3400,4,80,,,,
+Intel,Xeon,Haswell,,,,,,2000,4,25,,,,
+Intel,Xeon,Haswell,,,,,,3700,4,84,,,,
+Intel,Xeon,Haswell,,,,,,3200,4,65,,,,
+Intel,Xeon,Haswell,,,,,,3600,4,84,,,,
+Intel,Xeon,Haswell,,,,,,3500,4,84,,,,
+Intel,Xeon,Haswell,,,,,,3300,4,84,,,,
+Intel,Core i5,Haswell,,,,,,2600,2,37,,,,
+Intel,Pentium,Haswell,,,,,,2400,2,37,,,,
+Intel,Celeron,Haswell,,,,,,2200,2,37,,,,
+Intel,Core i7,Haswell,,,,,,2000,2,15,,,,
+Intel,Core i5,Haswell,,,,,,1700,2,15,,,,
+Intel,Core i3,Haswell,,,,,,2000,2,15,,,,
+Intel,Core i3,Haswell,,,,,,1900,2,15,,,,
+Intel,Core i3,Haswell,,,,,,1900,2,15,,,,
+Intel,Core i5,Haswell,,,,,,1600,2,11.5,,,,
+Intel,Core i3,Haswell,,,,,,1600,2,11.5,,,,
+Intel,Xeon,Haswell,,,,,,2000,14,120,,,,
+Intel,Xeon,Haswell,,,,,,2300,14,120,,,,
+Intel,Xeon,Haswell,,,,,,2600,14,145,,,,
+Intel,Xeon,Haswell,,,,,,2300,16,135,,,,
+Intel,Xeon,Haswell,,,,,,2300,18,145,,,,
+Intel,Celeron,Bay Trail,,,,,,2160,2,7.5,,,,
+Intel,Pentium,Bay Trail,,,,,,2160,4,7.5,,,,
+Intel,Atom,Moorefield,,,,0,0,,4,,,,,
+Intel,Atom,Moorefield,,,,0,0,,4,,,,,
+Intel,Xeon,Haswell,,,,,,2300,10,105,,,,
+Intel,Xeon,Haswell,,,,,,2600,10,105,,,,
+Intel,Xeon,Haswell,,,,,,2300,12,120,,,,
+Intel,0,Haswell,,,,,,2600,12,120,,,,
+Intel,Xeon,Haswell,,,,,,2600,12,135,,,,
+Intel,Xeon,Haswell,,,,,,3400,6,135,,,,
+Intel,Xeon,Haswell,,,,,,1800,12,65,,,,
+Intel,Xeon,Haswell,,,,,,3100,10,160,,,,
+Intel,Celeron,Bay Trail,,,,,,1580,2,4.5,,,,
+Intel,Celeron,Bay Trail,,,,,,2160,2,7.5,,,,
+Intel,Celeron,Bay Trail,,,,,,1830,4,7.5,,,,
+Intel,Pentium,Bay Trail,,,,,,2160,4,7.5,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Atom,Bay Trail,,,,,,1330,4,,,,,
+Intel,Pentium,Haswell,,,,,,3200,2,53,,,,
+Intel,0,Haswell,,,,,,2800,4,140,,,,
+Intel,0,Haswell,,,,,,3100,4,140,,,,
+Intel,Xeon,Haswell,,,,,,3500,4,140,,,,
+Intel,Xeon,Haswell,,,,,,3700,4,140,,,,
+Intel,Xeon,Haswell,,,,,,3500,6,140,,,,
+Intel,Xeon,Haswell,,,,,,3000,8,140,,,,
+Intel,Xeon,Haswell,,,,,,3200,8,140,,,,
+Intel,Core i7,Haswell E,,,,,,3000,8,140,,,,
+Intel,Core i7,Haswell E,,,,,,3500,6,140,,,,
+Intel,Core i7,Haswell E,,,,,,3300,6,140,,,,
+Intel,Xeon,Haswell,,,,,,1600,6,85,,,,
+Intel,Xeon,Haswell,,,,,,3000,4,105,,,,
+Intel,Xeon,Haswell,,,,,,2400,8,85,,,,
+Intel,Xeon,Haswell,,,,,,1800,8,55,,,,
+Intel,Xeon,Haswell,,,,,,3500,4,135,,,,
+Intel,Xeon,Haswell,,,,,,3200,8,135,,,,
+Intel,Pentium,Haswell,,,,,,3500,2,53,,,,
+Intel,Core i7,Crystal Well,,,,,,2800,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2500,4,47,,,,
+Intel,Core i7,Crystal Well,,,,,,2200,4,47,,,,
+Intel,Core i7,Haswell,,,,,,3000,2,28,,,,
+Intel,Core i5,Haswell,,,,,,2800,2,28,,,,
+Intel,Core i5,Haswell,,,,,,2600,2,28,,,,
+Intel,Pentium,Haswell,,,,,,3200,2,53,,,,
+Intel,Pentium,Haswell,,,,,,2800,2,35,,,,
+Intel,Core M,Broadwell,,,,,,800,2,4.5,,,,
+Intel,Core M,Broadwell,,,,,,800,2,4.5,,,,
+Intel,Core M,Broadwell,,,,,,1100,2,4.5,,,,
+Intel,Communications Infrastructure,Pine Cove,,,,,,750,4,,,,,
+Intel,Atom,Moorefield,,,,0,0,,4,,,,,
+Intel,Atom,Moorefield,,,,0,0,,4,,,,,
+Intel,Core M,Broadwell,,,,,,900,2,4.5,,,,
+Intel,Core M,Broadwell,,,,,,1100,2,4.5,,,,
+Intel,Core M,Broadwell,,,,,,1200,2,4.5,,,,
+Intel,Core M,Broadwell,,,,,,800,2,4.5,,,,
