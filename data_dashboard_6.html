@@ -45,7 +45,6 @@
 					<option value="barChart">Bar Chart</option>
 					<option value="bubbleChart">Bubble Chart</option>
 					<option value="lineChart">Line Chart</option>
-					<option value="areaChart">Area Chart</option>
 					<!--
 					<option value="barChart">Bar Chart</option>
 					<option value="pieChart">Pie Chart</option>
@@ -283,8 +282,7 @@
 						.render();
 				}
 			  break;
-				case "lineChart":
-				break;
+
 				case "barChart":
 				if(value_variables.length!=1){
 					console.log('Select 1 variables!')
@@ -301,7 +299,8 @@
 						.x(d3.scale.linear().domain([min_x,max_x]))
 						//.y(d3.scale.linear().domain([min_y,max_y]))
 						.renderHorizontalGridLines(true)
-						.yAxisLabel(value_variables[1])
+						.renderVerticalGridLines(true)
+						.yAxisLabel('Counts')
 						.xAxisLabel(value_variables[0])
 						.xAxis().ticks(5)
 						//.yAxis().ticks(5)
@@ -348,16 +347,50 @@
 					//.y(d3.scale.linear().domain(Yrange))
 					.yAxisLabel(value_variables[1])
 					.xAxisLabel(value_variables[0])
+					.renderHorizontalGridLines(true)
+					.renderVerticalGridLines(true)
 					.brushOn(true)
 					.label(function(d) {
-						return '('+ d.key[0] + ',' + d.key[1] + ')' + ':' + d.value;
-						//return '';
+						//return '('+ d.key[0] + ',' + d.key[1] + ')' + ':' + d.value;
+						return d.value;
 					});
 					//.colors()
 					//.colorDomain();
 					chart_1_obj.xAxis().ticks(5);
 					chart_1_obj.yAxis().ticks(5);
 					chart_1_obj.render();
+					break;
+
+					case "lineChart":
+					var rc = window.confirm("あなたは18歳以上ですか？");
+	        if (rc === true) {
+	            alert('18歳以上の人は選挙権があります。');
+	        } else {
+	            alert('18歳未満の人は投票出来ません。');
+	        }
+
+
+
+					if(value_variables.length!=1){
+						console.log('Select 1 variables!')
+					}
+					else{
+						chart_1_obj
+							.width(chart_width)
+							.height(chart_height)
+							.dimension(dimDimension)
+							.group(dimDimension.group().reduceCount())
+							.x(d3.scale.linear().domain([min_x,max_x]))
+							.yAxisLabel('Counts')
+							.xAxisLabel(value_variables[0])
+							.renderArea(false)
+							.brushOn(true)
+							.renderDataPoints(true)
+							//.clipPadding(10)
+							.renderHorizontalGridLines(true)
+							.renderVerticalGridLines(true)
+							.render();
+					}
 					break;
 			  default:
 			    break;
@@ -434,7 +467,7 @@
 					option.innerHTML = keys[i];
 					select.appendChild(option);
 				}
-				//crete crossfilter object
+				//create crossfilter object
 				cf = crossfilter(data);
 				console.log(data)
 				return cf;
