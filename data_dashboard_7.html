@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Data dashboard</title>
+	<!-- ================================================== -->
+	<!-- ▼jQuery/D3/DC/Crossfilter/Semantic UIファイル読み込み                  -->
+	<!-- ================================================== -->
+	<script type="text/javascript" src="jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="jquery/jquery.address.js"></script>
+	<script type="text/javascript" src="d3/d3.min.js"></script>
+	<script type="text/javascript" src="crossfilter/crossfilter.js"></script>
+	<script type="text/javascript" src="dc.js/dc.js"></script>
+	<link rel="stylesheet" type="text/css" href="dc.js/dc.css" />
+	<link rel="stylesheet" type="text/css" href="semantic/semantic.min.css">
+	<script type="text/javascript" src="semantic/semantic.min.js"></script>
+	<script type="text/javascript" src="UI-Dropdown/dropdown.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="UI-Dropdown/dropdown.min.css">
+	<script type="text/javascript" src="UI-popup/popup.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="UI-popup/popup.min.css">
+
+</head>
+<body>
+	<div class="ui grid" style="margin:0 0 0 0;">
+		<!--<input type="file" name="name" id="select_filename">-->
+		<input type="file" id="selectFileSample" />
+	</div>
+	<!--modal setting-->
+	<div class="ui scatter modal">
+	  <div class="header">Scatter plot setting</div>
+	  <div class="content">
+			<div class="ui form">
+				<p>
+			    <div class="ui toggle checkbox">
+			      <input type="checkbox" tabindex="0" class="hidden" id="scatter_toggle_">
+			      <label>Toggle</label>
+			    </div>
+				</p>
+				<p>
+			    <div class="ui toggle checkbox">
+			      <input type="checkbox" tabindex="0" class="hidden" id="scatter_toggle_">
+			      <label>Toggle</label>
+			    </div>
+				</p>
+			</div>
+	  </div>
+	  <div class="actions">
+	    <div class="ui approve button">Apply</div>
+	    <div class="ui cancel button">Cancel</div>
+	  </div>
+	</div>
+	<!--End of modal setting-->
+
+	<div class="ui grid" style="margin:0 0 0 0;">
+
+		<div class="four wide column">
+			<!--multiselect dropdown-->
+			<select name="" multiple="" class="ui fluid search dropdown" id="dropdown_plot">
+					<option value="">Variables to plot</option>
+			</select>
+		</div>
+
+		<div class="four wide column">
+			<!--dropdown-->
+			<select name="" class="ui fluid labeled icon dropdown" id="dropdown_type">
+					<option value="">Select plot type</option>
+					<option value="scatterPlot">Scatter Plot</option>
+					<option value="pieChart">Pie Chart</option>
+					<option value="rowChart">Row Chart</option>
+					<option value="barChart">Bar Chart</option>
+					<option value="bubbleChart">Bubble Chart</option>
+					<option value="lineChart">Line Chart</option>
+					<!--
+					<option value="barChart">Bar Chart</option>
+					<option value="pieChart">Pie Chart</option>
+					<option value="areaChart">Area Chart</option>
+					<option value="bubbleChart">Bubble Chart</option>-->
+			</select>
+		</div>
+		<div class="four wide column">
+			<!--dropdown-->
+			<select name="" class="ui fluid labeled icon dropdown" id="dropdown_chart">
+					<option value="">Select target chart</option>
+					<option value="chart_1">Chart 1</option>
+					<option value="chart_2">Chart 2</option>
+					<option value="chart_3">Chart 3</option>
+					<option value="chart_4">Chart 4</option>
+					<option value="chart_5">Chart 5</option>
+					<option value="chart_6">Chart 6</option>
+					<option value="chart_7">Chart 7</option>
+					<option value="chart_8">Chart 8</option>
+					<!--
+					<option value="barChart">Bar Chart</option>
+					<option value="pieChart">Pie Chart</option>
+					<option value="areaChart">Area Chart</option>
+					<option value="bubbleChart">Bubble Chart</option>-->
+			</select>
+		</div>
+		<div class="four wide column">
+			<i class="big line chart icon" id="plot"></i>
+			<i class="big setting icon" id="property_setting"></i>
+			<div class="ui custom popup">
+				<select name="" class="ui fluid labeled icon dropdown" id="dropdown_test">
+						<option value="">Select property</option>
+						<option value="Axis">Axis scale</option>
+						<option value="XY">X,Y value</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<!--first row-->
+	<div class="ui grid" style="margin:0 0 0 0;">
+		<div class="four wide column">
+			<div id="chart_1">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_2">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_3">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_4">
+			</div>
+		</div>
+	</div>
+	<!--second row-->
+	<div class="ui grid" style="margin:0 0 0 0;">
+		<div class="four wide column">
+			<div id="chart_5">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_6">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_7">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div id="chart_8">
+			</div>
+		</div>
+	</div>
+
+</body>
+<script type="text/javascript">
+	<!--Var define-->
+
+	value_variables = [];
+	value_plottype  = [];
+	value_chart = [];
+	chart_height=300;
+	chart_width=300;
+	symbol_size=10;
+
+	<!--custiom func-->
+
+	$('#plot').on('click', function() {
+		//var value_variables = document.getElementById("dropdown_plot");
+		var value_variables =$('#dropdown_plot').val();
+		var value_plottype = document.getElementById("dropdown_type").value;
+		console.log(value_variables)
+		plotChart(value_variables,value_plottype);
+	})
+
+	function plotChart(value_variables,value_plottype){
+		if (value_variables==0 || value_plottype==0 || value_chart==0){
+			alert("Select variables and plot type")
+		}else{
+			console.log("dc."+value_plottype+"(\'#"+value_chart+"\');")
+
+			if(value_variables.length==1){
+				var dimDimension = cf.dimension(function(d) {
+					var result = eval('d.'+value_variables);
+					if(result==""){
+						return "null";}
+					else{
+						return result;}
+					//return result;
+				});
+				var max_x=dimDimension.top(3)[2][value_variables[0]];
+				var min_x=dimDimension.bottom(3)[0][value_variables[0]];
+				if (min_x==[]){min_x=0}
+				else{}
+				//console.log(dimDimension.top(3))
+				//console.log(dimDimension.bottom(3))
+				console.log("x=["+min_x+","+max_x+"]")
+			}else if(value_variables.length==2){
+				var dimDimension = cf.dimension(function(d) {
+					var expressionX = 'd.'+value_variables[0];
+					var expressionY = 'd.'+value_variables[1];
+					if(eval(expressionX)=="" || eval(expressionY)==""){
+						//console.log("!!!")
+						return "0";}
+					else if(eval(expressionX)=="0" || eval(expressionY)=="0"){
+						//console.log("!!")
+						return "0";}
+					else{
+					var expression='['+ expressionX +',' + expressionY +']';
+					var result = eval(expression);
+					return result;}
+				});
+				var max_x=dimDimension.top(3)[2][value_variables[0]];
+				var min_x=dimDimension.bottom(3)[0][value_variables[0]];
+				if (min_x==[]){min_x=0}
+				else{}
+				//console.log(dimDimension.top(3))
+				//console.log(dimDimension.bottom(3))
+				console.log("x=["+min_x+","+max_x+"]")
+				//console.log(dimDimension.group().reduceCount())
+				var max_y=dimDimension.top(3)[2][value_variables[1]];
+				var min_y=dimDimension.bottom(3)[0][value_variables[1]];
+				if (min_y==[]){min_y=0}
+				else{}
+				console.log("y=["+min_y+","+max_y+"]")
+			}
+			else{
+				var dimDimension = cf.dimension(function(d) {
+					var expressionX = 'd.'+value_variables[0];
+					var expressionY = 'd.'+value_variables[1];
+					var expressionZ = 'd.'+value_variables[3];
+					if(eval(expressionX)=="" || eval(expressionY)=="" || eval(expressionZ)==""){
+						//console.log("!!!")
+						return "";}
+					else if(eval(expressionX)=="0" || eval(expressionY)=="0" || eval(expressionZ)=="0"){
+						//console.log("!!")
+						return "";}
+					else{
+					var expression='['+ expressionX +',' + expressionY +',' + expressionZ +']';
+					var result = eval(expression);
+					return result;}
+
+			})
+			var max_x=dimDimension.top(1)[0][value_variables[0]];
+			var min_x=dimDimension.bottom(1)[0][value_variables[0]];
+			console.log("x=["+min_x+","+max_x+"]")
+			var max_y=dimDimension.top(1)[0][value_variables[1]];
+			var min_y=dimDimension.bottom(1)[0][value_variables[1]];
+			console.log("y=["+min_y+","+max_y+"]")
+		}
+
+			var chart_1_obj= eval("dc."+value_plottype+"(\'#"+value_chart+"\');")
+
+			switch (value_plottype){
+			  case "scatterPlot":
+				if(value_variables.length!=2){
+					console.log('Select 2 variables!')
+				}
+				else{
+					$('.ui.checkbox')
+						.checkbox()
+					;
+					$('.ui.scatter.modal')
+						.modal('setting', 'closable', false)
+						.modal({
+							onApprove : function() {
+								console.log($('#scatter_toggle_').prop('checked'))
+
+								chart_1_obj
+									.width(chart_width)
+									.height(chart_height)
+									.margins({top: 10, right: 50, bottom: 30, left: 40})
+									.symbolSize(symbol_size) // プロットの大きさ
+									.dimension(dimDimension)
+									.group(dimDimension.group().reduceCount())
+									.transitionDuration(500)
+									//.x(d3.scale.log().domain([0.01,10]))
+									.x(d3.scale.linear().domain([Math.floor(min_x),Math.ceil(max_x)]))
+									//.y(d3.scale.linear().domain([Math.floor(min_y),Math.ceil(max_y)]))
+									///.x(d3.scale.linear().domain(d3.extent(function(d){return d.key[0];})))
+									//.y(d3.scale.log().domain([0.01,10]))
+									//.y(d3.scale.linear().domain([min_y,max_y]))
+									.mouseZoomable(true)
+									//.elasticX(true)
+									.elasticY(true)
+									//.y(d3.scale.linear().domain(Yrange))
+									.yAxisLabel(value_variables[1])
+									.xAxisLabel(value_variables[0])
+									.keyAccessor(function(d){return d.key[0];})
+									.valueAccessor(function(d){return d.key[1];})
+									.brushOn(true)
+									.rescale()
+									.render();
+							}
+						})
+					  .modal('show')
+					;
+				}
+			  break;
+			  case "pieChart":
+				if(value_variables.length!=1){
+					console.log('Select 1 variables!')
+				}
+				else{
+					chart_1_obj
+						.width(chart_width)
+						.height(chart_height)
+						//margins({top: 10, right: 50, bottom: 30, left: 40})
+						.cx(chart_width/2)
+						.cy(chart_height/2)
+						.innerRadius(chart_width/10)
+						.slicesCap(5)    // 上位3種のみ表示し、後はその他とする
+						.dimension(dimDimension)
+						.group(dimDimension.group().reduceCount())
+						.transitionDuration(500)
+						.ordering(function(t){
+						return -t.value;
+						})
+						.legend(dc.legend())
+						.label(function(d) {
+	  					//console.log('label', d);
+	  					return d.key + ': ' + d.value;
+						})
+						.render();
+				}
+			  break;
+
+				case "barChart":
+				if(value_variables.length!=1){
+					console.log('Select 1 variables!')
+				}
+				else{
+					chart_1_obj
+						.width(chart_width)
+						.height(chart_height)
+						.dimension(dimDimension)
+						.group(dimDimension.group().reduceCount())
+						.transitionDuration(500)
+						.centerBar(true)
+						.gap(79)
+						.x(d3.scale.linear().domain([min_x,max_x]))
+						//.y(d3.scale.linear().domain([min_y,max_y]))
+						.renderHorizontalGridLines(true)
+						.renderVerticalGridLines(true)
+						.yAxisLabel('Counts')
+						.xAxisLabel(value_variables[0])
+						.xAxis().ticks(5)
+						//.yAxis().ticks(5)
+						//.elasticY(true);
+						//.xAxis().tickFormat();
+					chart_1_obj
+						.render();
+
+				}
+				break;
+				case "rowChart":
+				chart_1_obj
+					.width(chart_width)
+					.height(chart_height)
+					.dimension(dimDimension)
+					.group(dimDimension.group().reduceCount())
+					.transitionDuration(500)
+					.elasticX(true)
+					.ordering(function(t){
+						return -Number(t.value);
+					})
+					.legend(dc.legend())
+					.render()
+					.xAxis().ticks(4);
+				break;
+
+				case "bubbleChart":
+				chart_1_obj
+					.width(chart_width)
+					.height(chart_height)
+					.dimension(dimDimension)
+					.group(dimDimension.group().reduceCount())
+					.transitionDuration(500)
+					.keyAccessor(function(d){return d.key[0];})
+					.valueAccessor(function(d){return d.key[1];})
+					.radiusValueAccessor(function(d){return d.value})
+					.elasticRadius(true)
+					.x(d3.scale.linear().domain([min_x,max_x]))
+					.y(d3.scale.linear().domain([min_y,max_y]))
+					//.x(d3.scale.log().domain([0.1,1]))
+					//.y(d3.scale.log().domain([1,100]))
+					//.r(d3.scale.linear().domain([1,100]))
+					//.maxBubbleRelativeSize(0,5)
+					//.y(d3.scale.linear().domain(Yrange))
+					.yAxisLabel(value_variables[1])
+					.xAxisLabel(value_variables[0])
+					.renderHorizontalGridLines(true)
+					.renderVerticalGridLines(true)
+					.brushOn(true)
+					.label(function(d) {
+						//return '('+ d.key[0] + ',' + d.key[1] + ')' + ':' + d.value;
+						return d.value;
+					});
+					//.colors()
+					//.colorDomain();
+					chart_1_obj.xAxis().ticks(5);
+					chart_1_obj.yAxis().ticks(5);
+					chart_1_obj.render();
+					break;
+
+					case "lineChart":
+						if(value_variables.length!=1){
+							console.log('Select 1 variables!')
+						}
+						else{
+							chart_1_obj
+								.width(chart_width)
+								.height(chart_height)
+								.dimension(dimDimension)
+								.group(dimDimension.group().reduceCount())
+								.x(d3.scale.linear().domain([min_x,max_x]))
+								.yAxisLabel('Counts')
+								.xAxisLabel(value_variables[0])
+								.renderArea(false)
+								.brushOn(true)
+								.renderDataPoints(true)
+								//.clipPadding(10)
+								.renderHorizontalGridLines(true)
+								.renderVerticalGridLines(true)
+								.render();
+						}
+					break;
+			  default:
+			    break;
+			}
+
+
+		}
+		return ;
+	}
+
+	<!--popup func-->
+	$('#property_setting')
+  .popup({
+    popup : $('.custom.popup'),
+    on    : 'click'
+  });
+
+	<!--dropdown setting-->
+	$(function(){
+		$("#dropdown_chart").dropdown({ allowLabels:true,direction: 'downward'})
+		$('#dropdown_chart').on('change', function() {
+			value_chart =$('#dropdown_chart').val();
+			console.log(value_chart)
+		})
+	})
+
+	$(function(){
+		$("#dropdown_test").dropdown({ allowLabels:true,direction: 'downward'})
+		$('#dropdown_test').on('change', function() {
+		})
+	})
+
+	$(function(){
+		$("#dropdown_plot").dropdown({ allowLabels:true,direction: 'downward'})
+		//$('.ui.fluid.dropdown').dropdown('set selected',['Role1','Role2']);
+		$('#dropdown_plot').on('change', function() {
+			var value_variables =$('#dropdown_plot').val();
+			console.log(value_variables)
+			if(value_variables.length==1){
+				var value_variable_x=value_variables;
+			}
+			else{}
+		})
+	})
+
+
+	$(function(){
+		$("#dropdown_type").dropdown({ allowLabels:true,direction: 'downward'})
+		$('#dropdown_type').on('change', function() {
+			var value_plottype =$('#dropdown_type').val();
+			console.log(value_plottype)
+		})
+	})
+
+	$(function(){
+		$('#selectFileSample').on('change', function() {
+			console.log("file selected!")
+			var selectFile = document.getElementById("selectFileSample").value;
+			console.log(selectFile)
+			var regex = /\\|\\/;
+			var array = selectFile.split(regex);
+			var filename = array[array.length - 1];
+			console.log(filename)
+			<!--d3.js & dc.js-->
+			//cf=d3.dsv("\t","text/plain")("test.csv", function(error,data){
+
+			//cf=d3.dsv("\t","text/plain")("data\\UCS_Satellite_Database_1-1-16_modified_20160629.txt", function(error,data){
+			cf=d3.dsv(",","text/plain")("data\\"+filename, function(error,data){
+				//get keys in data
+				var keys=Object.keys(data[0]);
+
+				//select "dropdown_plot"
+				var select = document.getElementById('dropdown_plot');
+				//add keys to option in s"dropdown_plot"
+				for ( var i in keys ) {
+					var option = document.createElement('option');
+					option.setAttribute('value', keys[i]);
+					option.innerHTML = keys[i];
+					select.appendChild(option);
+				}
+				//create crossfilter object
+				cf = crossfilter(data);
+				console.log(data)
+				return cf;
+			})
+		})
+	})
+</script>
+</html>
